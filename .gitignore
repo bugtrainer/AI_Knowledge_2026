@@ -1,0 +1,9 @@
+# Obsidian specific files
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+
+# OS generated files
+.DS_Store
+Thumbs.db

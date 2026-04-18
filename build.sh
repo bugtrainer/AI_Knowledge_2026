@@ -21,6 +21,10 @@ for item in *; do
     cp -r "$item" quartz-site/content/
   fi
 done
+
+# Rename the main Index file to standard lowercase index.md for Quartz
+cp quartz-site/content/_Index.md quartz-site/content/index.md
+
 cd quartz-site
 
 # 5. Customize the site title

@@ -13,8 +13,15 @@ rm -rf content
 mkdir content
 
 # 4. Copy all Obsidian Markdown files from the root into the Quartz content folder
-# We use rsync to copy everything except the temporary quartz folder itself
-rsync -av --exclude='quartz-site' ../ content/
+# 4. Copy all Obsidian Markdown files into the Quartz content folder natively
+cd ..
+for item in *; do
+  # Ignore the temporary quartz-site folder and the build scripts
+  if [ "$item" != "quartz-site" ] && [ "$item" != "build.sh" ] && [ "$item" != "package.json" ]; then
+    cp -r "$item" quartz-site/content/
+  fi
+done
+cd quartz-site
 
 # 5. Customize the site title
 sed -i 's/pageTitle: "Quartz 4"/pageTitle: "AI Encyclopedia 2026"/g' quartz.config.ts

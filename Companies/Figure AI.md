@@ -1,7 +1,7 @@
 ---
 tags: [AI, Company]
 icon: "🤖"
-ceo: "[[Brett Adcock]]"
+ceo: "Brett Adcock"
 founded: "2022"
 hq: "Sunnyvale, CA"
 url: "figure.ai"

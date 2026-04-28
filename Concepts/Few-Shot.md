@@ -37,4 +37,4 @@ Providing a small number of input→output examples in the prompt to guide the m
 
 ## Learn More
 - [YouTube: Few-Shot Prompting](https://www.youtube.com/results?search_query=Few+shot+prompting)
-- [Wikipedia: ICL](https://en.wikipedia.org/wiki/In-context_learning_(natural_language_processing))
+- [Wikipedia: ICL](https://en.wikipedia.org/wiki/In-context_learning_%28natural_language_processing%29)

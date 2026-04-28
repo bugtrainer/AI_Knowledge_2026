@@ -1,7 +1,7 @@
 ---
 tags: [AI, Company]
 icon: "🚗"
-ceo: "[[Tekedra Mawakana & Dmitri Dolgov (co-CEOs)]]"
+ceo: "Tekedra Mawakana & Dmitri Dolgov (co-CEOs)"
 founded: "2009 (as Google Self-Driving Car Project)"
 hq: "Mountain View, CA"
 url: "waymo.com"

@@ -4,7 +4,7 @@ aliases: [Core AI Concepts]
 icon: "🧠"
 category: "moc"
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-29
 ---
 
 # 🧠 MOC — Core Concepts
@@ -53,6 +53,7 @@ Where AI is heading next:
 | [[AGI]] | 🔴 Advanced | Artificial General Intelligence — the ultimate goal |
 | [[ASI]] | 🔴 Advanced | Artificial Superintelligence — beyond human |
 | [[SLM]] | 🟢 Beginner | Small models that run on your phone |
+| [[Scaling Laws]] | 🔴 Advanced | Mathematical laws predicting model capability |
 
 ## Generative Techniques
 How AI creates new content:

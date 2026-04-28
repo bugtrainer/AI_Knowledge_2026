@@ -38,4 +38,4 @@ Running multiple [[Attention]] operations in parallel, each learning to focus on
 
 ## Learn More
 - [YouTube: Multi-Head Attention](https://www.youtube.com/results?search_query=Multi+head+attention+explained)
-- [Wikipedia: Multi-Head Attention](https://en.wikipedia.org/wiki/Attention_(machine_learning)#Multi-head_attention)
+- [Wikipedia: Multi-Head Attention](https://en.wikipedia.org/wiki/Attention_%28machine_learning%29#Multi-head_attention)

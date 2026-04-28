@@ -38,4 +38,4 @@ The emergent ability of large language models to learn new tasks **purely from e
 
 ## Learn More
 - [YouTube: In-Context Learning](https://www.youtube.com/results?search_query=In+context+learning+LLM)
-- [Wikipedia: ICL in NLP](https://en.wikipedia.org/wiki/In-context_learning_(natural_language_processing))
+- [Wikipedia: ICL in NLP](https://en.wikipedia.org/wiki/In-context_learning_%28natural_language_processing%29)

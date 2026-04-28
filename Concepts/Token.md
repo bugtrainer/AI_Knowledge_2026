@@ -29,4 +29,4 @@ A **Token** is the basic unit of text that an AI model processes — roughly a w
 
 ## Learn More
 - [YouTube: Tokenization](https://www.youtube.com/results?search_query=Tokenization+LLM+explained)
-- [OpenAI Tokenizer](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them)
+- [OpenAI Tokenizer](https://platform.openai.com/tokenizer)

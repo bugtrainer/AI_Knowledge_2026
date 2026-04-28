@@ -28,4 +28,4 @@ Example: In "The cat sat on the mat because **it** was tired" — the attention 
 
 ## Learn More
 - [YouTube: 3Blue1Brown — Attention](https://www.youtube.com/results?search_query=Attention+Mechanism+Transformers+3Blue1Brown)
-- [Wikipedia](https://en.wikipedia.org/wiki/Attention_(machine_learning))
+- [Wikipedia](https://en.wikipedia.org/wiki/Attention_%28machine_learning%29)

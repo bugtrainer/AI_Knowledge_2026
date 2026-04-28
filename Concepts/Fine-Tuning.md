@@ -29,4 +29,4 @@ Pre-training is like getting a university degree in "everything". Fine-tuning is
 
 ## Learn More
 - [YouTube: Fine-tuning LLMs](https://www.youtube.com/results?search_query=Fine+tuning+LLMs+explained)
-- [Wikipedia](https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning))
+- [Wikipedia](https://en.wikipedia.org/wiki/Fine-tuning_%28deep_learning%29)

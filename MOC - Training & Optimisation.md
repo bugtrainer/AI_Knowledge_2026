@@ -4,7 +4,7 @@ aliases: [Training Methods, AI Training Techniques]
 icon: "🏋️"
 category: "moc"
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-29
 ---
 
 # 🏋️ MOC — Training & Optimisation

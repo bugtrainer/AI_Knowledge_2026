@@ -4,7 +4,7 @@ aliases: [AI Safety Guide, Alignment Guide]
 icon: "🛡️"
 category: "moc"
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-29
 ---
 
 # 🛡️ MOC — Safety & Alignment
@@ -37,6 +37,7 @@ As AI systems become more capable, the potential for both benefit and harm incre
 | [[Jailbreak]] | 🟡 Intermediate | Bypassing AI safety filters |
 | [[Model Collapse]] | 🔴 Advanced | Degradation from training on AI-generated data |
 | [[Hallucination]] | 🟢 Beginner | Confident fabrication of false information |
+| [[Deepfakes]] | 🟡 Intermediate | AI-generated fake video/audio of real people |
 
 ## Governance & Regulation
 | Concept | Difficulty | One-Liner |
@@ -51,6 +52,9 @@ As AI systems become more capable, the potential for both benefit and harm incre
 - [[Ilya Sutskever]] — Founded Safe Superintelligence Inc.
 - [[Yoshua Bengio]] — Prominent voice on AI existential risk
 - [[Timnit Gebru]] — AI bias and ethics advocate
+- [[Joy Buolamwini]] — Founded Algorithmic Justice League
+- [[Kate Crawford]] — Atlas of AI, systems-level critique
+- [[Nick Bostrom]] — Superintelligence, existential risk frameworks
 
 ---
 

@@ -23,7 +23,7 @@ Start your journey at the `_Index.md` file, which serves as the master dashboard
 - `MOC - Infrastructure & Deployment.md`
 
 ## 📊 Features
-- **240+ Interlinked Notes:** Concepts, Tools, Companies, and People.
+- **250+ Interlinked Notes:** Concepts, Tools, Companies, People, and a 110+ term Glossary.
 - **Mastery Tracking:** Each note has YAML frontmatter with a `mastery_score` (0-5) to track your learning.
 - **Study Dashboard:** Use the `Study Dashboard.md` to track your progress from Beginner to Advanced topics.
 - **Zero Lock-in:** Everything is written in standard Markdown.

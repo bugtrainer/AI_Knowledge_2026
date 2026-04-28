@@ -34,4 +34,4 @@ World models are seen as the **next frontier beyond LLMs** — and potentially t
 
 ## Learn More
 - [YouTube: World Models — Yann LeCun](https://www.youtube.com/results?search_query=World+Models+Yann+LeCun)
-- [Wikipedia](https://en.wikipedia.org/wiki/World_model_(artificial_intelligence))
+- [Wikipedia](https://en.wikipedia.org/wiki/World_model_%28artificial_intelligence%29)

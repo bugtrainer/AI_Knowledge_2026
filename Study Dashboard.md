@@ -4,7 +4,7 @@ aliases: [Study Progress, Learning Dashboard]
 icon: "📊"
 category: "dashboard"
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-29
 ---
 
 # 📊 Study Dashboard

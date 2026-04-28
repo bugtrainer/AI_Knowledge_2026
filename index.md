@@ -3,7 +3,7 @@ tags: [AI, Index, Dashboard]
 cssclass: ai-dashboard
 icon: "🌐"
 created: 2026-04-17
-updated: 2026-04-18
+updated: 2026-04-29
 ---
 
 # 🌐 AI World — Ultimate Knowledge Encyclopedia
@@ -15,17 +15,24 @@ updated: 2026-04-18
 ## 📊 Knowledge Base Stats (April 2026)
 | Category | Count | Description |
 |---|---|---|
-| 🧠 **Concepts** | 87+ | Core AI terms, architectures, training methods, and techniques |
+| 🧠 **Concepts** | 88 | Core AI terms, architectures, training methods, and techniques |
 | 🏢 **Companies** | 20 | Frontier labs, infrastructure giants, robotics firms |
-| 👤 **People** | 24 | Godfathers, CEOs, researchers, ethicists |
-| 🔧 **Tools** | 95+ | IDEs, assistants, platforms, creative tools |
-| 📖 **Glossary** | 100+ | Quick-reference definitions |
+| 👤 **People** | 25 | Godfathers, CEOs, researchers, ethicists |
+| 🔧 **Tools** | 93 | IDEs, assistants, platforms, creative tools |
+| 📖 **Glossary** | 110+ | Quick-reference definitions across 9 sections |
 | 🗺️ **MOCs** | 5 | Maps of Content by domain |
 | 📚 **Learning Paths** | 4 | Guided sequences by level |
 
 ---
 
-## 🆕 What's New (April 18, 2026)
+## 🆕 What's New (April 29, 2026)
+- ✅ **Glossary Expansion** — cross-referenced 4 industry glossaries (Wikipedia, MIT, Google ML, PlusAI) + Z.ai trend analysis
+- ✅ Added 20+ new glossary terms including Neuro-Symbolic AI, Liquid Neural Networks, Agentic Swarms, Ambient AI, and Digital Twin
+- ✅ New Glossary section: **Emerging Trends & Buzzwords (2026)**
+- ✅ Fixed 20+ broken external links (Wikipedia parentheses, dead URLs)
+- ✅ Fixed 3 broken internal wiki-links
+
+### Previous Updates (April 18, 2026)
 - ✅ Added 15 new concept notes: [[GPU]], [[Scaling Laws]], [[QLoRA]], [[Multi-Agent Systems]], [[AutoGen]], [[Test-Time Compute]], [[Gradient Descent]], [[Reinforcement Learning]], [[Open-Source AI]], [[Ollama]], [[LangChain]], [[In-Context Learning]], [[Multi-Head Attention]], [[CUDA]], [[ASI]]
 - ✅ Created 5 Maps of Content (MOC) hub pages
 - ✅ Built [[Study Dashboard]] with progress tracking
@@ -70,11 +77,11 @@ Choose your journey based on your level:
 ## 📂 Browse by Category
 | Category | Link | Count |
 |---|---|---|
-| 🧠 Concepts | [[Concepts/\|All Concepts]] | 87+ |
+| 🧠 Concepts | [[Concepts/\|All Concepts]] | 88 |
 | 🏢 Companies | [[Companies/\|All Companies]] | 20 |
-| 👤 People | [[People/\|All People]] | 24 |
-| 🔧 Tools | [[Tools/\|All Tools]] | 95+ |
-| 📖 Glossary | [[Glossary/Glossary\|Complete Glossary]] | 100+ |
+| 👤 People | [[People/\|All People]] | 25 |
+| 🔧 Tools | [[Tools/\|All Tools]] | 93 |
+| 📖 Glossary | [[Glossary/Glossary\|Complete Glossary]] | 110+ |
 
 ---
 
@@ -120,4 +127,4 @@ Choose your journey based on your level:
 > **The Graph View is where this knowledge base truly shines.** With 240+ notes and thousands of WikiLinks, the graph creates a dense, navigable web of AI knowledge. Try clicking on the LLM node and exploring outward.
 
 ---
-*Last updated: April 18, 2026 — 3rd iteration upgrade with MOCs, progress tracking, and 15 new concepts*
+*Last updated: April 29, 2026 — 4th iteration: Glossary expansion (110+ terms), broken link fixes, 2026 Emerging Trends section*

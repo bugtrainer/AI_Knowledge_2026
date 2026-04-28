@@ -4,7 +4,7 @@ aliases: [AI Infrastructure, Deployment Guide]
 icon: "☁️"
 category: "moc"
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-29
 ---
 
 # ☁️ MOC — Infrastructure & Deployment

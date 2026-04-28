@@ -16,7 +16,7 @@ Think of today's AI as a chess grandmaster who is world-class at chess but canno
 AGI does not exist yet, but it drives the strategy of every major AI lab:
 - **OpenAI** has AGI as its stated mission ("ensure AGI benefits all of humanity")
 - **Anthropic** was founded specifically to build AGI safely
-- **Ilya Sutskever** left OpenAI to found [[SSI]] (Safe Superintelligence) focused on post-AGI safety
+- **Ilya Sutskever** left OpenAI to found SSI (Safe Superintelligence Inc.) focused on post-AGI safety
 - **Yann LeCun** argues current [[LLM]]s will never achieve AGI — hence his $1B bet on [[World Model]]s at [[AMI Labs]]
 
 > [!WARNING]

@@ -33,4 +33,4 @@ Hallucination remains the **#1 limitation** for enterprise AI deployments:
 
 ## Learn More
 - [YouTube: AI Hallucination](https://www.youtube.com/results?search_query=AI+Hallucination+explained)
-- [Wikipedia](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence))
+- [Wikipedia](https://en.wikipedia.org/wiki/Hallucination_%28artificial_intelligence%29)

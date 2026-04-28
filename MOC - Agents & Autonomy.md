@@ -4,7 +4,7 @@ aliases: [AI Agents Guide, Agent Frameworks]
 icon: "🤖"
 category: "moc"
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-29
 ---
 
 # 🤖 MOC — Agents & Autonomy
@@ -44,12 +44,15 @@ Planning → Tool Use → Memory → Self-Correction → Multi-Agent
 | [[AutoGen]] | 🟡 Intermediate | Microsoft's multi-agent conversation framework |
 | [[LangChain]] | 🟡 Intermediate | Most popular framework for LLM apps and agents |
 | [[Google ADK]] | 🟡 Intermediate | Google's Agent Development Kit |
+| [[Manus AI]] | 🟡 Intermediate | Meta-acquired general-purpose AI agent |
 
 ## Agent Applications
 | Concept | Difficulty | One-Liner |
 |---|---|---|
 | [[Vibe Coding]] | 🟢 Beginner | Building software by describing it in natural language |
 | [[Computer Use]] | 🟡 Intermediate | AI that controls mouse, keyboard, and screen |
+| [[Hermes Agent]] | 🟡 Intermediate | Specialised agent for autonomous task execution |
+| [[Skills]] | 🟡 Intermediate | Reusable capability modules for AI agents |
 
 ## Prompting for Agents
 | Concept | Difficulty | One-Liner |

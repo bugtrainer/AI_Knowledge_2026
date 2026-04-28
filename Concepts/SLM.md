@@ -30,4 +30,4 @@ A **Small Language Model (SLM)** is a lightweight, efficient AI model (typically
 
 ## Learn More
 - [YouTube: Small Language Models](https://www.youtube.com/results?search_query=Small+Language+Models+Microsoft+Phi)
-- [Microsoft Phi](https://www.microsoft.com/en-us/research/project/phi-3/)
+- [Microsoft Phi](https://azure.microsoft.com/en-us/products/phi)

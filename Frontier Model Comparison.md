@@ -1,5 +1,9 @@
 ---
 tags: [AI, Models, Comparison]
+icon: "⚡"
+category: "reference"
+created: 2026-04-17
+updated: 2026-04-29
 ---
 
 # ⚡ Frontier Model Comparison (April 2026)

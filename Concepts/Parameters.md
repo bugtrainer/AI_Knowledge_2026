@@ -39,4 +39,4 @@ Learnable numerical **weights and biases** inside a neural network — the "know
 
 ## Learn More
 - [YouTube: AI Parameters Explained](https://www.youtube.com/results?search_query=AI+Parameters+explained)
-- [Wikipedia: Model Parameters](https://en.wikipedia.org/wiki/Parameter_(machine_learning))
+- [Wikipedia: Model Parameters](https://en.wikipedia.org/wiki/Parameter_%28machine_learning%29)

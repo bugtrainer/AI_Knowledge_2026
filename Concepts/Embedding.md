@@ -6,6 +6,8 @@ created: 2026-04-17
 updated: 2026-04-17
 ---
 
+!["Vector Embeddings"](../Assets/Images/concept_embeddings.png)
+
 ## Definition
 An **Embedding** is a numerical vector (list of numbers) that represents the meaning of a word, sentence, or concept in high-dimensional space. Words with similar meanings are placed close together in this space.
 

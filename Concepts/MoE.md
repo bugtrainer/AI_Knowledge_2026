@@ -6,6 +6,8 @@ created: 2026-04-17
 updated: 2026-04-17
 ---
 
+!["Mixture of Experts (MoE)"](../Assets/Images/concept_moe.png)
+
 ## Definition
 **Mixture of Experts (MoE)** is an architecture where a model contains multiple specialised sub-networks ("experts"), but only activates a **subset** of them for each input. This allows models to be very large (many parameters) while being efficient (only a fraction are used per query).
 

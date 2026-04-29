@@ -1,5 +1,7 @@
 # Key People Overview
 
+![The 25 People Shaping the AI Era](Assets/Images/people_poster.png)
+
 3. The Key People in AI in 2026
 
 Understanding who shapes AI is as important as understanding the technology itself.

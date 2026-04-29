@@ -6,6 +6,8 @@ created: 2026-04-17
 updated: 2026-04-17
 ---
 
+!["Transformer Architecture"](../Assets/Images/concept_transformer.png)
+
 ## Definition
 The **Transformer** is the neural network architecture behind virtually all modern AI. Introduced in the landmark 2017 paper *"Attention Is All You Need"* by researchers at Google (co-authored by [[Aidan Gomez]]), it replaced older architectures (RNNs, LSTMs) by processing all tokens in parallel using the [[Attention]] mechanism.
 

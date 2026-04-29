@@ -6,6 +6,8 @@ created: 2026-04-17
 updated: 2026-04-17
 ---
 
+!["Retrieval-Augmented Generation (RAG)"](../Assets/Images/concept_rag.png)
+
 ## Definition
 **Retrieval-Augmented Generation (RAG)** is a technique that gives an AI model access to **your specific knowledge base** — company documents, databases, manuals, PDFs — at the time of answering. The system first **retrieves** relevant information, then **generates** an answer grounded in those sources.
 

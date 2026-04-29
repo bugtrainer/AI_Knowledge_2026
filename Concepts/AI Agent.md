@@ -6,6 +6,8 @@ created: 2026-04-17
 updated: 2026-04-17
 ---
 
+!["Multi-Agent Systems"](../Assets/Images/concept_agents.png)
+
 ## Definition
 An **AI Agent** is an AI system that doesn't just answer questions — it autonomously takes a **sequence of actions** to complete a goal. It can use tools, browse the web, write code, send emails, query databases, and make decisions along the way.
 

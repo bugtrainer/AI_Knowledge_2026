@@ -8,6 +8,8 @@ updated: 2026-04-17
 
 # 🌫️ Diffusion Model
 
+!["Diffusion Models"](../Assets/Images/concept_diffusion.png)
+
 ## Definition
 A **Diffusion Model** generates content (images, video, audio) by learning to reverse a process of adding noise. During training, it learns how to gradually **denoise** a completely random image into a coherent one. During generation, it starts from pure noise and progressively refines it.
 

@@ -6,6 +6,8 @@ created: 2026-04-17
 updated: 2026-04-17
 ---
 
+!["AI Hallucination"](../Assets/Images/concept_hallucination.png)
+
 ## Definition
 **Hallucination** is when an AI model generates information that sounds plausible and confident but is **factually incorrect**. The model isn't "lying" — it's generating statistically likely text that happens to be wrong.
 

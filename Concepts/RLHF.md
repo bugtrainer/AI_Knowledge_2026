@@ -6,6 +6,8 @@ created: 2026-04-17
 updated: 2026-04-17
 ---
 
+!["RLHF"](../Assets/Images/concept_rlhf.png)
+
 ## Definition
 **RLHF** (Reinforcement Learning from Human Feedback) is the key technique used to align AI models with human preferences. It trains the model to produce outputs that humans rate as helpful, harmless, and honest.
 

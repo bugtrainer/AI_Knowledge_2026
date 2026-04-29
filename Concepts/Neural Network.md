@@ -8,6 +8,8 @@ updated: 2026-04-17
 
 # 🕸️ Neural Network
 
+!["Neural Network"](../Assets/Images/concept_neural_network.png)
+
 ## Definition
 A **Neural Network** is a computing system inspired by the structure of the human brain. It consists of layers of interconnected nodes ("neurons") that process information by passing signals through weighted connections. [[Deep Learning]] uses neural networks with many layers (hence "deep").
 

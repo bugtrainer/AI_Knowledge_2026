@@ -13,6 +13,8 @@ updated: 2026-04-18
 
 # 🎮 GPU
 
+!["GPU"](../Assets/Images/concept_gpu.png)
+
 ## Definition
 **Graphics Processing Unit** — massively parallel compute chips originally designed for rendering graphics, now repurposed as the engine behind all AI training and inference. NVIDIA's A100, H100, and Blackwell B200 GPUs are the currency of the AI industry. The global GPU shortage (2023–2025) became a strategic geopolitical issue.
 

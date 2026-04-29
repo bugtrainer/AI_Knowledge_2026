@@ -6,6 +6,8 @@ created: 2026-04-17
 updated: 2026-04-17
 ---
 
+!["Chain-of-Thought"](../Assets/Images/concept_cot.png)
+
 ## Definition
 **Chain-of-Thought (CoT)** prompting is a technique where you ask the model to reason **step-by-step** before giving a final answer. This dramatically improves accuracy on math, logic, and complex reasoning tasks.
 

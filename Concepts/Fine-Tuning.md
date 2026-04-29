@@ -6,6 +6,8 @@ created: 2026-04-17
 updated: 2026-04-17
 ---
 
+!["Fine-Tuning"](../Assets/Images/concept_finetuning.png)
+
 ## Definition
 **Fine-tuning** is the process of adapting a [[Pre-Training|pre-trained]] [[Foundation Model]] for a specific use case by training it further on a smaller, targeted dataset. It's how a general-purpose model becomes specialised.
 

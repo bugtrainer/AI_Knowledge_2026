@@ -6,6 +6,8 @@ created: 2026-04-17
 updated: 2026-04-17
 ---
 
+!["Context Window"](../Assets/Images/concept_context_window.png)
+
 ## Definition
 The **Context Window** is the maximum amount of text (measured in [[Token]]s) that an AI model can process in a single conversation. It includes everything: the system prompt, conversation history, any retrieved documents, AND the model's response.
 

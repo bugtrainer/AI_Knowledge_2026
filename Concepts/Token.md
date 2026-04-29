@@ -6,6 +6,8 @@ created: 2026-04-17
 updated: 2026-04-17
 ---
 
+!["Tokenization"](../Assets/Images/concept_token.png)
+
 ## Definition
 A **Token** is the basic unit of text that an AI model processes — roughly a word or part of a word. Models don't read characters or words directly; they break text into tokens using a **tokenizer**.
 

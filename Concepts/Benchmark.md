@@ -8,6 +8,8 @@ updated: 2026-04-17
 
 # 📏 Benchmark
 
+!["AI Benchmarks"](../Assets/Images/concept_benchmark.png)
+
 ## Definition
 A **Benchmark** is a standardised test used to compare AI model performance. Benchmarks provide objective scores across capabilities like reasoning, coding, math, and knowledge.
 

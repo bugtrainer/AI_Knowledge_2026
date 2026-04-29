@@ -6,6 +6,8 @@ created: 2026-04-17
 updated: 2026-04-17
 ---
 
+!["Synthetic Data"](../Assets/Images/concept_synthetic_data.png)
+
 ## Definition
 **Synthetic Data** is artificially generated data used for AI training when real data is scarce, private, or too expensive to collect. Companies like Gretel, MostlyAI, and Datagen specialise in creating high-quality synthetic datasets.
 

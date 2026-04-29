@@ -6,6 +6,8 @@ created: 2026-04-17
 updated: 2026-04-17
 ---
 
+!["Prompt Injection"](../Assets/Images/concept_prompt_injection.png)
+
 ## Definition
 **Prompt Injection** is a security attack where malicious instructions are hidden inside inputs to hijack an AI model's behaviour — causing it to ignore its original instructions, reveal system prompts, or take unintended actions.
 

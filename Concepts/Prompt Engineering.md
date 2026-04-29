@@ -6,6 +6,8 @@ created: 2026-04-17
 updated: 2026-04-17
 ---
 
+!["Prompt Engineering"](../Assets/Images/concept_prompt_engineering.png)
+
 ## Definition
 **Prompt Engineering** is the skill of crafting instructions strategically to elicit vastly better outputs from AI models. It's one of the **most important practical skills** in 2026 — often making the difference between a mediocre and an exceptional AI response.
 

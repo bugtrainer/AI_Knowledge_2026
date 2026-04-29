@@ -6,6 +6,8 @@ created: 2026-04-17
 updated: 2026-04-17
 ---
 
+!["Pre-Training"](../Assets/Images/concept_pretraining.png)
+
 ## Definition
 **Pre-training** is the initial large-scale training phase where a [[Foundation Model]] learns from vast amounts of data — typically trillions of tokens from the internet, books, and code. This is the most expensive phase of building an AI model.
 

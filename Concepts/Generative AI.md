@@ -6,6 +6,8 @@ created: 2026-04-17
 updated: 2026-04-17
 ---
 
+!["Generative AI"](../Assets/Images/concept_genai.png)
+
 ## Definition
 **Generative AI** is AI that creates **new content**: text, images, audio, video, code, 3D worlds, music, and more. It is the dominant form of AI in 2026 and the technology behind tools like [[ChatGPT (OpenAI)]], [[Midjourney v7]], [[Suno v5]], [[Sora 2 (OpenAI)]], and [[ElevenLabs]].
 

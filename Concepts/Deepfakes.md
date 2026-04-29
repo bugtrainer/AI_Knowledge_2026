@@ -13,6 +13,8 @@ updated: 2026-04-18
 
 # 🎭 Deepfakes
 
+!["Deepfakes and Synthetic Media"](../Assets/Images/concept_deepfakes.png)
+
 ## Definition
 AI-generated synthetic media — fake videos, images, or audio that convincingly depict real people doing or saying things they never did. Originally created using [[GAN]]s, now increasingly made with [[Diffusion Model]]s and voice cloning tools like [[ElevenLabs]]. A major trust and security challenge.
 

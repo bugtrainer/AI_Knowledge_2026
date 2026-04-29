@@ -2,6 +2,7 @@
 echo "Starting Custom Vercel Build for Quartz..."
 
 # 1. Download Quartz into a temporary folder
+rm -rf quartz-site
 git clone https://github.com/jackyzha0/quartz.git quartz-site
 cd quartz-site
 

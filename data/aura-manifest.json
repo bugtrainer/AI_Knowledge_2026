@@ -1,31 +1,19 @@
 {
-  "generatedAt": "2026-04-21T20:37:14.938Z",
+  "generatedAt": "2026-04-30T19:24:18.112Z",
   "stats": {
-    "nodes": 249,
-    "edges": 2095
+    "nodes": 250,
+    "edges": 2102
   },
   "nodes": [
-    {
-      "id": "Advanced Path",
-      "label": "Advanced Path",
-      "path": "Advanced Path.md",
-      "tags": [],
-      "difficulty": "unknown",
-      "status": "seed"
-    },
-    {
-      "id": "AI for Business Leaders",
-      "label": "AI for Business Leaders",
-      "path": "AI for Business Leaders.md",
-      "tags": [],
-      "difficulty": "unknown",
-      "status": "seed"
-    },
     {
       "id": "AI Risks and Safety",
       "label": "AI Risks and Safety",
       "path": "AI Risks and Safety.md",
-      "tags": [],
+      "tags": [
+        "AI",
+        "Safety",
+        "MOC"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
@@ -37,6 +25,30 @@
         "AI",
         "Timeline",
         "History"
+      ],
+      "difficulty": "unknown",
+      "status": "seed"
+    },
+    {
+      "id": "AI for Business Leaders",
+      "label": "AI for Business Leaders",
+      "path": "AI for Business Leaders.md",
+      "tags": [
+        "AI",
+        "Business",
+        "Strategy"
+      ],
+      "difficulty": "unknown",
+      "status": "seed"
+    },
+    {
+      "id": "Advanced Path",
+      "label": "Advanced Path",
+      "path": "Advanced Path.md",
+      "tags": [
+        "AI",
+        "Learning",
+        "Path"
       ],
       "difficulty": "unknown",
       "status": "seed"
@@ -57,215 +69,251 @@
       "id": "Business Leaders Path",
       "label": "Business Leaders Path",
       "path": "Business Leaders Path.md",
-      "tags": [],
+      "tags": [
+        "AI",
+        "Learning",
+        "Path",
+        "Business"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Anthropic",
       "label": "Anthropic",
-      "path": "Companies\\Anthropic.md",
+      "path": "Companies/Anthropic.md",
       "tags": [
         "AI",
         "Company"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "Cohere",
       "label": "Cohere",
-      "path": "Companies\\Cohere.md",
-      "tags": [],
+      "path": "Companies/Cohere.md",
+      "tags": [
+        "AI",
+        "Company"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "DeepSeek",
       "label": "DeepSeek",
-      "path": "Companies\\DeepSeek.md",
+      "path": "Companies/DeepSeek.md",
       "tags": [
         "AI",
         "Company"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
+      "difficulty": "intermediate",
+      "status": "evergreen"
+    },
+    {
+      "id": "ESP32",
+      "label": "ESP32",
+      "path": "Companies/ESP32.md",
+      "tags": [
+        "AI",
+        "Hardware"
+      ],
+      "difficulty": "unknown",
+      "status": "seed"
     },
     {
       "id": "Edge AI",
       "label": "Edge AI",
-      "path": "Companies\\Edge AI.md",
-      "tags": [],
+      "path": "Companies/Edge AI.md",
+      "tags": [
+        "AI",
+        "Hardware"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "ElevenLabs",
       "label": "ElevenLabs",
-      "path": "Companies\\ElevenLabs.md",
+      "path": "Companies/ElevenLabs.md",
       "tags": [
         "AI",
         "Company"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"seed\""
-    },
-    {
-      "id": "ESP32",
-      "label": "ESP32",
-      "path": "Companies\\ESP32.md",
-      "tags": [],
-      "difficulty": "unknown",
+      "difficulty": "intermediate",
       "status": "seed"
     },
     {
       "id": "Figure AI",
       "label": "Figure AI",
-      "path": "Companies\\Figure AI.md",
-      "tags": [],
+      "path": "Companies/Figure AI.md",
+      "tags": [
+        "AI",
+        "Company"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Google DeepMind",
       "label": "Google DeepMind",
-      "path": "Companies\\Google DeepMind.md",
+      "path": "Companies/Google DeepMind.md",
       "tags": [
         "AI",
         "Company"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "Hume AI",
       "label": "Hume AI",
-      "path": "Companies\\Hume AI.md",
+      "path": "Companies/Hume AI.md",
       "tags": [
         "AI",
         "Company"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"seed\""
+      "difficulty": "intermediate",
+      "status": "seed"
     },
     {
       "id": "Isomorphic Labs (DeepMind)",
       "label": "Isomorphic Labs (DeepMind)",
-      "path": "Companies\\Isomorphic Labs (DeepMind).md",
-      "tags": [],
+      "path": "Companies/Isomorphic Labs (DeepMind).md",
+      "tags": [
+        "AI",
+        "Company"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Jetson Nano",
       "label": "Jetson Nano",
-      "path": "Companies\\Jetson Nano.md",
-      "tags": [],
+      "path": "Companies/Jetson Nano.md",
+      "tags": [
+        "AI",
+        "Hardware"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Meta AI",
       "label": "Meta AI",
-      "path": "Companies\\Meta AI.md",
+      "path": "Companies/Meta AI.md",
       "tags": [
         "AI",
         "Company"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "Microsoft",
       "label": "Microsoft",
-      "path": "Companies\\Microsoft.md",
+      "path": "Companies/Microsoft.md",
       "tags": [
         "AI",
         "Company"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "Mistral AI",
       "label": "Mistral AI",
-      "path": "Companies\\Mistral AI.md",
+      "path": "Companies/Mistral AI.md",
       "tags": [
         "AI",
         "Company"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
+      "difficulty": "intermediate",
+      "status": "evergreen"
     },
     {
       "id": "NPU",
       "label": "NPU",
-      "path": "Companies\\NPU.md",
-      "tags": [],
+      "path": "Companies/NPU.md",
+      "tags": [
+        "AI",
+        "Hardware"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "NVIDIA",
       "label": "NVIDIA",
-      "path": "Companies\\NVIDIA.md",
+      "path": "Companies/NVIDIA.md",
       "tags": [
         "AI",
         "Company"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "OpenAI",
       "label": "OpenAI",
-      "path": "Companies\\OpenAI.md",
+      "path": "Companies/OpenAI.md",
       "tags": [
         "AI",
         "Company"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "Perplexity AI",
       "label": "Perplexity AI",
-      "path": "Companies\\Perplexity AI.md",
-      "tags": [],
+      "path": "Companies/Perplexity AI.md",
+      "tags": [
+        "AI",
+        "Company"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Waymo (Alphabet)",
       "label": "Waymo (Alphabet)",
-      "path": "Companies\\Waymo (Alphabet).md",
-      "tags": [],
+      "path": "Companies/Waymo (Alphabet).md",
+      "tags": [
+        "AI",
+        "Company"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "xAI",
       "label": "xAI",
-      "path": "Companies\\xAI.md",
+      "path": "Companies/xAI.md",
       "tags": [
         "AI",
         "Company"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
+      "difficulty": "intermediate",
+      "status": "evergreen"
     },
     {
       "id": "AGI",
       "label": "AGI",
-      "path": "Concepts\\AGI.md",
-      "tags": [],
+      "path": "Concepts/AGI.md",
+      "tags": [
+        "AI",
+        "Core",
+        "Frontier"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "AI Agent",
       "label": "AI Agent",
-      "path": "Concepts\\AI Agent.md",
+      "path": "Concepts/AI Agent.md",
       "tags": [
         "AI",
         "Agents",
@@ -277,205 +325,274 @@
     {
       "id": "AI Alignment",
       "label": "AI Alignment",
-      "path": "Concepts\\AI Alignment.md",
-      "tags": [],
+      "path": "Concepts/AI Alignment.md",
+      "tags": [
+        "AI",
+        "Safety",
+        "Core"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "AI Safety",
       "label": "AI Safety",
-      "path": "Concepts\\AI Safety.md",
-      "tags": [],
+      "path": "Concepts/AI Safety.md",
+      "tags": [
+        "AI",
+        "Safety",
+        "Core"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "AI Sovereignty",
       "label": "AI Sovereignty",
-      "path": "Concepts\\AI Sovereignty.md",
-      "tags": [],
+      "path": "Concepts/AI Sovereignty.md",
+      "tags": [
+        "AI",
+        "Safety",
+        "Geopolitics"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
-      "id": "AnythingLLM",
-      "label": "AnythingLLM",
-      "path": "Concepts\\AnythingLLM.md",
-      "tags": [
-        "AI",
-        "Deployment"
-      ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
-    },
-    {
       "id": "ASI",
       "label": "ASI",
-      "path": "Concepts\\ASI.md",
+      "path": "Concepts/ASI.md",
       "tags": [
         "AI",
         "Core",
         "Safety"
       ],
-      "difficulty": "\"advanced\"",
-      "status": "\"evergreen\""
+      "difficulty": "advanced",
+      "status": "evergreen"
     },
     {
       "id": "ASIC",
       "label": "ASIC",
-      "path": "Concepts\\ASIC.md",
+      "path": "Concepts/ASIC.md",
       "tags": [
         "AI",
         "Hardware"
       ],
-      "difficulty": "\"advanced\"",
-      "status": "\"evergreen\""
+      "difficulty": "advanced",
+      "status": "evergreen"
+    },
+    {
+      "id": "AnythingLLM",
+      "label": "AnythingLLM",
+      "path": "Concepts/AnythingLLM.md",
+      "tags": [
+        "AI",
+        "Deployment"
+      ],
+      "difficulty": "intermediate",
+      "status": "evergreen"
     },
     {
       "id": "Attention",
       "label": "Attention",
-      "path": "Concepts\\Attention.md",
-      "tags": [],
+      "path": "Concepts/Attention.md",
+      "tags": [
+        "AI",
+        "Architecture"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "AutoGen",
       "label": "AutoGen",
-      "path": "Concepts\\AutoGen.md",
+      "path": "Concepts/AutoGen.md",
       "tags": [
         "AI",
         "Agents",
         "Tools"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
+      "difficulty": "intermediate",
+      "status": "evergreen"
     },
     {
       "id": "Backpropagation",
       "label": "Backpropagation",
-      "path": "Concepts\\Backpropagation.md",
-      "tags": [],
+      "path": "Concepts/Backpropagation.md",
+      "tags": [
+        "AI",
+        "Core",
+        "Training"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Benchmark",
       "label": "Benchmark",
-      "path": "Concepts\\Benchmark.md",
-      "tags": [],
+      "path": "Concepts/Benchmark.md",
+      "tags": [
+        "AI",
+        "Evaluation"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "C2PA",
       "label": "C2PA",
-      "path": "Concepts\\C2PA.md",
-      "tags": [],
-      "difficulty": "unknown",
-      "status": "seed"
-    },
-    {
-      "id": "Chain-of-Thought",
-      "label": "Chain-of-Thought",
-      "path": "Concepts\\Chain-of-Thought.md",
-      "tags": [],
+      "path": "Concepts/C2PA.md",
+      "tags": [
+        "AI",
+        "Safety",
+        "Standards"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "CNN",
       "label": "CNN",
-      "path": "Concepts\\CNN.md",
-      "tags": [],
-      "difficulty": "unknown",
-      "status": "seed"
-    },
-    {
-      "id": "Computer Use",
-      "label": "Computer Use",
-      "path": "Concepts\\Computer Use.md",
-      "tags": [],
-      "difficulty": "unknown",
-      "status": "seed"
-    },
-    {
-      "id": "Constitutional AI",
-      "label": "Constitutional AI",
-      "path": "Concepts\\Constitutional AI.md",
-      "tags": [],
-      "difficulty": "unknown",
-      "status": "seed"
-    },
-    {
-      "id": "Context Window",
-      "label": "Context Window",
-      "path": "Concepts\\Context Window.md",
-      "tags": [],
+      "path": "Concepts/CNN.md",
+      "tags": [
+        "AI",
+        "Architecture"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "CUDA",
       "label": "CUDA",
-      "path": "Concepts\\CUDA.md",
+      "path": "Concepts/CUDA.md",
       "tags": [
         "AI",
         "Hardware",
         "Core"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
+      "difficulty": "intermediate",
+      "status": "evergreen"
+    },
+    {
+      "id": "Chain-of-Thought",
+      "label": "Chain-of-Thought",
+      "path": "Concepts/Chain-of-Thought.md",
+      "tags": [
+        "AI",
+        "Prompting"
+      ],
+      "difficulty": "unknown",
+      "status": "seed"
+    },
+    {
+      "id": "Computer Use",
+      "label": "Computer Use",
+      "path": "Concepts/Computer Use.md",
+      "tags": [
+        "AI",
+        "Agents",
+        "Frontier"
+      ],
+      "difficulty": "unknown",
+      "status": "seed"
+    },
+    {
+      "id": "Constitutional AI",
+      "label": "Constitutional AI",
+      "path": "Concepts/Constitutional AI.md",
+      "tags": [
+        "AI",
+        "Safety",
+        "Alignment"
+      ],
+      "difficulty": "unknown",
+      "status": "seed"
+    },
+    {
+      "id": "Context Window",
+      "label": "Context Window",
+      "path": "Concepts/Context Window.md",
+      "tags": [
+        "AI",
+        "Architecture"
+      ],
+      "difficulty": "unknown",
+      "status": "seed"
+    },
+    {
+      "id": "DPO",
+      "label": "DPO",
+      "path": "Concepts/DPO.md",
+      "tags": [
+        "AI",
+        "Training",
+        "Alignment"
+      ],
+      "difficulty": "unknown",
+      "status": "seed"
     },
     {
       "id": "Data-Centric AI",
       "label": "Data-Centric AI",
-      "path": "Concepts\\Data-Centric AI.md",
-      "tags": [],
+      "path": "Concepts/Data-Centric AI.md",
+      "tags": [
+        "AI",
+        "Training"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Deep Learning",
       "label": "Deep Learning",
-      "path": "Concepts\\Deep Learning.md",
-      "tags": [],
+      "path": "Concepts/Deep Learning.md",
+      "tags": [
+        "AI",
+        "Core"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Deepfakes",
       "label": "Deepfakes",
-      "path": "Concepts\\Deepfakes.md",
+      "path": "Concepts/Deepfakes.md",
       "tags": [
         "AI",
         "Safety",
         "Generative"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "Diffusion Model",
       "label": "Diffusion Model",
-      "path": "Concepts\\Diffusion Model.md",
-      "tags": [],
+      "path": "Concepts/Diffusion Model.md",
+      "tags": [
+        "AI",
+        "Architecture",
+        "Generative"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Digital Labor",
       "label": "Digital Labor",
-      "path": "Concepts\\Digital Labor.md",
-      "tags": [],
+      "path": "Concepts/Digital Labor.md",
+      "tags": [
+        "AI",
+        "Agents",
+        "Business"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Distillation",
       "label": "Distillation",
-      "path": "Concepts\\Distillation.md",
+      "path": "Concepts/Distillation.md",
       "tags": [
         "AI",
         "Training",
@@ -487,85 +604,99 @@
     {
       "id": "Docker",
       "label": "Docker",
-      "path": "Concepts\\Docker.md",
+      "path": "Concepts/Docker.md",
       "tags": [
         "AI",
         "Deployment"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
+      "difficulty": "intermediate",
+      "status": "evergreen"
     },
     {
-      "id": "DPO",
-      "label": "DPO",
-      "path": "Concepts\\DPO.md",
-      "tags": [],
+      "id": "EU AI Act",
+      "label": "EU AI Act",
+      "path": "Concepts/EU AI Act.md",
+      "tags": [
+        "AI",
+        "Safety",
+        "Regulation",
+        "Governance"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Edge AI",
       "label": "Edge AI",
-      "path": "Concepts\\Edge AI.md",
-      "tags": [],
+      "path": "Concepts/Edge AI.md",
+      "tags": [
+        "AI",
+        "Deployment",
+        "Hardware"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Embedding",
       "label": "Embedding",
-      "path": "Concepts\\Embedding.md",
-      "tags": [],
+      "path": "Concepts/Embedding.md",
+      "tags": [
+        "AI",
+        "Architecture"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Embodied AI",
       "label": "Embodied AI",
-      "path": "Concepts\\Embodied AI.md",
-      "tags": [],
-      "difficulty": "unknown",
-      "status": "seed"
-    },
-    {
-      "id": "EU AI Act",
-      "label": "EU AI Act",
-      "path": "Concepts\\EU AI Act.md",
-      "tags": [],
+      "path": "Concepts/Embodied AI.md",
+      "tags": [
+        "AI",
+        "Core",
+        "Robotics"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Few-Shot",
       "label": "Few-Shot",
-      "path": "Concepts\\Few-Shot.md",
+      "path": "Concepts/Few-Shot.md",
       "tags": [
         "AI",
         "Prompting"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "Fine-Tuning",
       "label": "Fine-Tuning",
-      "path": "Concepts\\Fine-Tuning.md",
-      "tags": [],
+      "path": "Concepts/Fine-Tuning.md",
+      "tags": [
+        "AI",
+        "Training"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Foundation Model",
       "label": "Foundation Model",
-      "path": "Concepts\\Foundation Model.md",
-      "tags": [],
+      "path": "Concepts/Foundation Model.md",
+      "tags": [
+        "AI",
+        "Core"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "GAN",
       "label": "GAN",
-      "path": "Concepts\\GAN.md",
+      "path": "Concepts/GAN.md",
       "tags": [
         "AI",
         "Architecture",
@@ -575,152 +706,161 @@
       "status": "seed"
     },
     {
-      "id": "Generative AI",
-      "label": "Generative AI",
-      "path": "Concepts\\Generative AI.md",
-      "tags": [],
-      "difficulty": "unknown",
-      "status": "seed"
-    },
-    {
       "id": "GEO",
       "label": "GEO",
-      "path": "Concepts\\GEO.md",
-      "tags": [],
+      "path": "Concepts/GEO.md",
+      "tags": [
+        "AI",
+        "Marketing",
+        "Strategy"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "GPU",
       "label": "GPU",
-      "path": "Concepts\\GPU.md",
+      "path": "Concepts/GPU.md",
       "tags": [
         "AI",
         "Hardware",
         "Architecture"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
+    },
+    {
+      "id": "Generative AI",
+      "label": "Generative AI",
+      "path": "Concepts/Generative AI.md",
+      "tags": [
+        "AI",
+        "Core"
+      ],
+      "difficulty": "unknown",
+      "status": "seed"
     },
     {
       "id": "Gradient Descent",
       "label": "Gradient Descent",
-      "path": "Concepts\\Gradient Descent.md",
+      "path": "Concepts/Gradient Descent.md",
       "tags": [
         "AI",
         "Training",
         "Core"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "Grounding",
       "label": "Grounding",
-      "path": "Concepts\\Grounding.md",
-      "tags": [],
+      "path": "Concepts/Grounding.md",
+      "tags": [
+        "AI",
+        "Prompting",
+        "Safety"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Guardrails",
       "label": "Guardrails",
-      "path": "Concepts\\Guardrails.md",
-      "tags": [],
+      "path": "Concepts/Guardrails.md",
+      "tags": [
+        "AI",
+        "Safety"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Hallucination",
       "label": "Hallucination",
-      "path": "Concepts\\Hallucination.md",
-      "tags": [],
+      "path": "Concepts/Hallucination.md",
+      "tags": [
+        "AI",
+        "Safety",
+        "Training"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "In-Context Learning",
       "label": "In-Context Learning",
-      "path": "Concepts\\In-Context Learning.md",
+      "path": "Concepts/In-Context Learning.md",
       "tags": [
         "AI",
         "Prompting",
         "Training"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
+      "difficulty": "intermediate",
+      "status": "evergreen"
     },
     {
       "id": "Inference",
       "label": "Inference",
-      "path": "Concepts\\Inference.md",
-      "tags": [],
+      "path": "Concepts/Inference.md",
+      "tags": [
+        "AI",
+        "Deployment"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Interpretability",
       "label": "Interpretability",
-      "path": "Concepts\\Interpretability.md",
-      "tags": [],
+      "path": "Concepts/Interpretability.md",
+      "tags": [
+        "AI",
+        "Safety",
+        "Research"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Jailbreak",
       "label": "Jailbreak",
-      "path": "Concepts\\Jailbreak.md",
-      "tags": [],
+      "path": "Concepts/Jailbreak.md",
+      "tags": [
+        "AI",
+        "Safety",
+        "Security"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "KV Cache",
       "label": "KV Cache",
-      "path": "Concepts\\KV Cache.md",
-      "tags": [],
+      "path": "Concepts/KV Cache.md",
+      "tags": [
+        "AI",
+        "Architecture",
+        "Optimization"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
-      "id": "LangChain",
-      "label": "LangChain",
-      "path": "Concepts\\LangChain.md",
-      "tags": [
-        "AI",
-        "Agents",
-        "Framework"
-      ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
-    },
-    {
-      "id": "Llama",
-      "label": "Llama",
-      "path": "Concepts\\Llama.md",
-      "tags": [
-        "AI",
-        "Models",
-        "Open-Source"
-      ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
-    },
-    {
       "id": "LLM VPS",
       "label": "LLM VPS",
-      "path": "Concepts\\LLM VPS.md",
+      "path": "Concepts/LLM VPS.md",
       "tags": [
         "AI",
         "Deployment"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
+      "difficulty": "intermediate",
+      "status": "evergreen"
     },
     {
       "id": "LLM",
       "label": "LLM",
-      "path": "Concepts\\LLM.md",
+      "path": "Concepts/LLM.md",
       "tags": [
         "AI",
         "Core",
@@ -730,17 +870,45 @@
       "status": "seed"
     },
     {
+      "id": "LangChain",
+      "label": "LangChain",
+      "path": "Concepts/LangChain.md",
+      "tags": [
+        "AI",
+        "Agents",
+        "Framework"
+      ],
+      "difficulty": "intermediate",
+      "status": "evergreen"
+    },
+    {
+      "id": "Llama",
+      "label": "Llama",
+      "path": "Concepts/Llama.md",
+      "tags": [
+        "AI",
+        "Models",
+        "Open-Source"
+      ],
+      "difficulty": "beginner",
+      "status": "evergreen"
+    },
+    {
       "id": "LoRA",
       "label": "LoRA",
-      "path": "Concepts\\LoRA.md",
-      "tags": [],
+      "path": "Concepts/LoRA.md",
+      "tags": [
+        "AI",
+        "Training",
+        "Optimization"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "MCP",
       "label": "MCP",
-      "path": "Concepts\\MCP.md",
+      "path": "Concepts/MCP.md",
       "tags": [
         "AI",
         "Deployment",
@@ -751,133 +919,159 @@
       "status": "seed"
     },
     {
-      "id": "Model Collapse",
-      "label": "Model Collapse",
-      "path": "Concepts\\Model Collapse.md",
-      "tags": [],
+      "id": "MoE",
+      "label": "MoE",
+      "path": "Concepts/MoE.md",
+      "tags": [
+        "AI",
+        "Architecture"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
-      "id": "MoE",
-      "label": "MoE",
-      "path": "Concepts\\MoE.md",
-      "tags": [],
+      "id": "Model Collapse",
+      "label": "Model Collapse",
+      "path": "Concepts/Model Collapse.md",
+      "tags": [
+        "AI",
+        "Safety",
+        "Training"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Multi-Agent Systems",
       "label": "Multi-Agent Systems",
-      "path": "Concepts\\Multi-Agent Systems.md",
+      "path": "Concepts/Multi-Agent Systems.md",
       "tags": [
         "AI",
         "Agents"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
+      "difficulty": "intermediate",
+      "status": "evergreen"
     },
     {
       "id": "Multi-Head Attention",
       "label": "Multi-Head Attention",
-      "path": "Concepts\\Multi-Head Attention.md",
+      "path": "Concepts/Multi-Head Attention.md",
       "tags": [
         "AI",
         "Architecture"
       ],
-      "difficulty": "\"advanced\"",
-      "status": "\"evergreen\""
+      "difficulty": "advanced",
+      "status": "evergreen"
     },
     {
       "id": "Multimodal AI",
       "label": "Multimodal AI",
-      "path": "Concepts\\Multimodal AI.md",
-      "tags": [],
+      "path": "Concepts/Multimodal AI.md",
+      "tags": [
+        "AI",
+        "Core"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Neural Network",
       "label": "Neural Network",
-      "path": "Concepts\\Neural Network.md",
-      "tags": [],
+      "path": "Concepts/Neural Network.md",
+      "tags": [
+        "AI",
+        "Core",
+        "Architecture"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "NotebookLM",
       "label": "NotebookLM",
-      "path": "Concepts\\NotebookLM.md",
-      "tags": [],
+      "path": "Concepts/NotebookLM.md",
+      "tags": [
+        "AI",
+        "Tools",
+        "Research",
+        "Google"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Ollama",
       "label": "Ollama",
-      "path": "Concepts\\Ollama.md",
+      "path": "Concepts/Ollama.md",
       "tags": [
         "AI",
         "Deployment",
         "Tools"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "Open-Source AI",
       "label": "Open-Source AI",
-      "path": "Concepts\\Open-Source AI.md",
+      "path": "Concepts/Open-Source AI.md",
       "tags": [
         "AI",
         "Core",
         "Movement"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "Orchestrator",
       "label": "Orchestrator",
-      "path": "Concepts\\Orchestrator.md",
-      "tags": [],
+      "path": "Concepts/Orchestrator.md",
+      "tags": [
+        "AI",
+        "Agents",
+        "Architecture"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Overfitting",
       "label": "Overfitting",
-      "path": "Concepts\\Overfitting.md",
+      "path": "Concepts/Overfitting.md",
       "tags": [
         "AI",
         "Training"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "Parameters",
       "label": "Parameters",
-      "path": "Concepts\\Parameters.md",
+      "path": "Concepts/Parameters.md",
       "tags": [
         "AI",
         "Architecture"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "Pre-Training",
       "label": "Pre-Training",
-      "path": "Concepts\\Pre-Training.md",
-      "tags": [],
+      "path": "Concepts/Pre-Training.md",
+      "tags": [
+        "AI",
+        "Training"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Prompt Engineering",
       "label": "Prompt Engineering",
-      "path": "Concepts\\Prompt Engineering.md",
+      "path": "Concepts/Prompt Engineering.md",
       "tags": [
         "AI",
         "Prompting",
@@ -889,102 +1083,102 @@
     {
       "id": "Prompt Injection",
       "label": "Prompt Injection",
-      "path": "Concepts\\Prompt Injection.md",
-      "tags": [],
+      "path": "Concepts/Prompt Injection.md",
+      "tags": [
+        "AI",
+        "Safety",
+        "Security"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "QLoRA",
       "label": "QLoRA",
-      "path": "Concepts\\QLoRA.md",
+      "path": "Concepts/QLoRA.md",
       "tags": [
         "AI",
         "Training"
       ],
-      "difficulty": "\"advanced\"",
-      "status": "\"evergreen\""
+      "difficulty": "advanced",
+      "status": "evergreen"
     },
     {
       "id": "Quantisation",
       "label": "Quantisation",
-      "path": "Concepts\\Quantisation.md",
-      "tags": [],
+      "path": "Concepts/Quantisation.md",
+      "tags": [
+        "AI",
+        "Deployment",
+        "Optimization"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "RAG",
       "label": "RAG",
-      "path": "Concepts\\RAG.md",
-      "tags": [],
+      "path": "Concepts/RAG.md",
+      "tags": [
+        "AI",
+        "Training",
+        "Retrieval"
+      ],
+      "difficulty": "unknown",
+      "status": "seed"
+    },
+    {
+      "id": "RLHF",
+      "label": "RLHF",
+      "path": "Concepts/RLHF.md",
+      "tags": [
+        "AI",
+        "Training",
+        "Alignment"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Reasoning Model",
       "label": "Reasoning Model",
-      "path": "Concepts\\Reasoning Model.md",
-      "tags": [],
+      "path": "Concepts/Reasoning Model.md",
+      "tags": [
+        "AI",
+        "Core",
+        "Frontier"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Red-teaming",
       "label": "Red-teaming",
-      "path": "Concepts\\Red-teaming.md",
-      "tags": [],
+      "path": "Concepts/Red-teaming.md",
+      "tags": [
+        "AI",
+        "Safety",
+        "Security"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Reinforcement Learning",
       "label": "Reinforcement Learning",
-      "path": "Concepts\\Reinforcement Learning.md",
+      "path": "Concepts/Reinforcement Learning.md",
       "tags": [
         "AI",
         "Training",
         "Core"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
-    },
-    {
-      "id": "RLHF",
-      "label": "RLHF",
-      "path": "Concepts\\RLHF.md",
-      "tags": [],
-      "difficulty": "unknown",
-      "status": "seed"
-    },
-    {
-      "id": "Scaling Laws",
-      "label": "Scaling Laws",
-      "path": "Concepts\\Scaling Laws.md",
-      "tags": [
-        "AI",
-        "Training",
-        "Core"
-      ],
-      "difficulty": "\"advanced\"",
-      "status": "\"evergreen\""
-    },
-    {
-      "id": "Skill File",
-      "label": "Skill File",
-      "path": "Concepts\\Skill File.md",
-      "tags": [
-        "AI",
-        "Agents",
-        "Concepts"
-      ],
-      "difficulty": "unknown",
-      "status": "seed"
+      "difficulty": "intermediate",
+      "status": "evergreen"
     },
     {
       "id": "SLM",
       "label": "SLM",
-      "path": "Concepts\\SLM.md",
+      "path": "Concepts/SLM.md",
       "tags": [
         "AI",
         "Core",
@@ -996,78 +1190,123 @@
     {
       "id": "SSM",
       "label": "SSM",
-      "path": "Concepts\\SSM.md",
-      "tags": [],
+      "path": "Concepts/SSM.md",
+      "tags": [
+        "AI",
+        "Architecture"
+      ],
+      "difficulty": "unknown",
+      "status": "seed"
+    },
+    {
+      "id": "Scaling Laws",
+      "label": "Scaling Laws",
+      "path": "Concepts/Scaling Laws.md",
+      "tags": [
+        "AI",
+        "Training",
+        "Core"
+      ],
+      "difficulty": "advanced",
+      "status": "evergreen"
+    },
+    {
+      "id": "Skill File",
+      "label": "Skill File",
+      "path": "Concepts/Skill File.md",
+      "tags": [
+        "AI",
+        "Agents",
+        "Concepts"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Synthetic Data",
       "label": "Synthetic Data",
-      "path": "Concepts\\Synthetic Data.md",
-      "tags": [],
+      "path": "Concepts/Synthetic Data.md",
+      "tags": [
+        "AI",
+        "Training"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "System Prompt",
       "label": "System Prompt",
-      "path": "Concepts\\System Prompt.md",
+      "path": "Concepts/System Prompt.md",
       "tags": [
         "AI",
         "Prompting"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "Temperature",
       "label": "Temperature",
-      "path": "Concepts\\Temperature.md",
-      "tags": [],
+      "path": "Concepts/Temperature.md",
+      "tags": [
+        "AI",
+        "Prompting",
+        "Parameters"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Test-Time Compute",
       "label": "Test-Time Compute",
-      "path": "Concepts\\Test-Time Compute.md",
+      "path": "Concepts/Test-Time Compute.md",
       "tags": [
         "AI",
         "Training",
         "Core"
       ],
-      "difficulty": "\"advanced\"",
-      "status": "\"evergreen\""
+      "difficulty": "advanced",
+      "status": "evergreen"
     },
     {
       "id": "Token",
       "label": "Token",
-      "path": "Concepts\\Token.md",
-      "tags": [],
+      "path": "Concepts/Token.md",
+      "tags": [
+        "AI",
+        "Architecture"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Transformer",
       "label": "Transformer",
-      "path": "Concepts\\Transformer.md",
-      "tags": [],
+      "path": "Concepts/Transformer.md",
+      "tags": [
+        "AI",
+        "Architecture",
+        "Core"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Vector Database",
       "label": "Vector Database",
-      "path": "Concepts\\Vector Database.md",
-      "tags": [],
+      "path": "Concepts/Vector Database.md",
+      "tags": [
+        "AI",
+        "Infrastructure",
+        "Data"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Vibe Coding",
       "label": "Vibe Coding",
-      "path": "Concepts\\Vibe Coding.md",
+      "path": "Concepts/Vibe Coding.md",
       "tags": [
         "AI",
         "Agents",
@@ -1079,21 +1318,25 @@
     {
       "id": "World Model",
       "label": "World Model",
-      "path": "Concepts\\World Model.md",
-      "tags": [],
+      "path": "Concepts/World Model.md",
+      "tags": [
+        "AI",
+        "Core",
+        "Frontier"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Zero-Shot",
       "label": "Zero-Shot",
-      "path": "Concepts\\Zero-Shot.md",
+      "path": "Concepts/Zero-Shot.md",
       "tags": [
         "AI",
         "Prompting"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "Core Concepts Overview",
@@ -1107,27 +1350,19 @@
       "id": "Frontier Model Comparison",
       "label": "Frontier Model Comparison",
       "path": "Frontier Model Comparison.md",
-      "tags": [],
+      "tags": [
+        "AI",
+        "Models",
+        "Comparison"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Glossary",
       "label": "Glossary",
-      "path": "Glossary\\Glossary.md",
+      "path": "Glossary/Glossary.md",
       "tags": [],
-      "difficulty": "unknown",
-      "status": "seed"
-    },
-    {
-      "id": "index",
-      "label": "index",
-      "path": "index.md",
-      "tags": [
-        "AI",
-        "Index",
-        "Dashboard"
-      ],
       "difficulty": "unknown",
       "status": "seed"
     },
@@ -1135,7 +1370,11 @@
       "id": "Intermediate Path",
       "label": "Intermediate Path",
       "path": "Intermediate Path.md",
-      "tags": [],
+      "tags": [
+        "AI",
+        "Learning",
+        "Path"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
@@ -1208,306 +1447,314 @@
       "status": "seed"
     },
     {
+      "id": "PROJECT_AUDIT_AND_IMPROVEMENTS",
+      "label": "PROJECT_AUDIT_AND_IMPROVEMENTS",
+      "path": "PROJECT_AUDIT_AND_IMPROVEMENTS.md",
+      "tags": [],
+      "difficulty": "unknown",
+      "status": "seed"
+    },
+    {
       "id": "Aidan Gomez",
       "label": "Aidan Gomez",
-      "path": "People\\Aidan Gomez.md",
+      "path": "People/Aidan Gomez.md",
       "tags": [
         "AI",
         "People",
         "CEO"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
+      "difficulty": "intermediate",
+      "status": "evergreen"
     },
     {
       "id": "Alexandr Wang",
       "label": "Alexandr Wang",
-      "path": "People\\Alexandr Wang.md",
+      "path": "People/Alexandr Wang.md",
       "tags": [
         "AI",
         "People",
         "CEO"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
+      "difficulty": "intermediate",
+      "status": "evergreen"
     },
     {
       "id": "Andrej Karpathy",
       "label": "Andrej Karpathy",
-      "path": "People\\Andrej Karpathy.md",
+      "path": "People/Andrej Karpathy.md",
       "tags": [
         "AI",
         "People",
         "Educator"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
+      "difficulty": "intermediate",
+      "status": "evergreen"
     },
     {
       "id": "Andrew Ng",
       "label": "Andrew Ng",
-      "path": "People\\Andrew Ng.md",
+      "path": "People/Andrew Ng.md",
       "tags": [
         "AI",
         "People",
         "Educator"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "Aravind Srinivas",
       "label": "Aravind Srinivas",
-      "path": "People\\Aravind Srinivas.md",
+      "path": "People/Aravind Srinivas.md",
       "tags": [
         "AI",
         "People",
         "CEO"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
+      "difficulty": "intermediate",
+      "status": "evergreen"
     },
     {
       "id": "Arthur Mensch",
       "label": "Arthur Mensch",
-      "path": "People\\Arthur Mensch.md",
+      "path": "People/Arthur Mensch.md",
       "tags": [
         "AI",
         "People",
         "CEO"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
+      "difficulty": "intermediate",
+      "status": "evergreen"
     },
     {
       "id": "Daniela Amodei",
       "label": "Daniela Amodei",
-      "path": "People\\Daniela Amodei.md",
+      "path": "People/Daniela Amodei.md",
       "tags": [
         "AI",
         "People",
         "CEO"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
+      "difficulty": "intermediate",
+      "status": "evergreen"
     },
     {
       "id": "Dario Amodei",
       "label": "Dario Amodei",
-      "path": "People\\Dario Amodei.md",
+      "path": "People/Dario Amodei.md",
       "tags": [
         "AI",
         "People",
         "CEO"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
+      "difficulty": "intermediate",
+      "status": "evergreen"
     },
     {
       "id": "Demis Hassabis",
       "label": "Demis Hassabis",
-      "path": "People\\Demis Hassabis.md",
+      "path": "People/Demis Hassabis.md",
       "tags": [
         "AI",
         "People",
         "CEO"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
+      "difficulty": "intermediate",
+      "status": "evergreen"
     },
     {
       "id": "Elon Musk",
       "label": "Elon Musk",
-      "path": "People\\Elon Musk.md",
+      "path": "People/Elon Musk.md",
       "tags": [
         "AI",
         "People",
         "CEO"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "Fei-Fei Li",
       "label": "Fei-Fei Li",
-      "path": "People\\Fei-Fei Li.md",
+      "path": "People/Fei-Fei Li.md",
       "tags": [
         "AI",
         "People",
         "Researcher"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
+      "difficulty": "intermediate",
+      "status": "evergreen"
     },
     {
       "id": "Geoffrey Hinton",
       "label": "Geoffrey Hinton",
-      "path": "People\\Geoffrey Hinton.md",
+      "path": "People/Geoffrey Hinton.md",
       "tags": [
         "AI",
         "People",
         "Researcher",
         "Godfather"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
+      "difficulty": "intermediate",
+      "status": "evergreen"
     },
     {
       "id": "Ilya Sutskever",
       "label": "Ilya Sutskever",
-      "path": "People\\Ilya Sutskever.md",
+      "path": "People/Ilya Sutskever.md",
       "tags": [
         "AI",
         "People",
         "Researcher"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
+      "difficulty": "intermediate",
+      "status": "evergreen"
     },
     {
       "id": "Jensen Huang",
       "label": "Jensen Huang",
-      "path": "People\\Jensen Huang.md",
+      "path": "People/Jensen Huang.md",
       "tags": [
         "AI",
         "People",
         "CEO"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "Joy Buolamwini",
       "label": "Joy Buolamwini",
-      "path": "People\\Joy Buolamwini.md",
+      "path": "People/Joy Buolamwini.md",
       "tags": [
         "AI",
         "People",
         "Ethics"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
+      "difficulty": "intermediate",
+      "status": "evergreen"
     },
     {
       "id": "Kate Crawford",
       "label": "Kate Crawford",
-      "path": "People\\Kate Crawford.md",
+      "path": "People/Kate Crawford.md",
       "tags": [
         "AI",
         "People",
         "Researcher"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
+      "difficulty": "intermediate",
+      "status": "evergreen"
     },
     {
       "id": "Mark Zuckerberg",
       "label": "Mark Zuckerberg",
-      "path": "People\\Mark Zuckerberg.md",
+      "path": "People/Mark Zuckerberg.md",
       "tags": [
         "AI",
         "People",
         "CEO"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "Mira Murati",
       "label": "Mira Murati",
-      "path": "People\\Mira Murati.md",
+      "path": "People/Mira Murati.md",
       "tags": [
         "AI",
         "People",
         "CEO"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
+      "difficulty": "intermediate",
+      "status": "evergreen"
     },
     {
       "id": "Nick Bostrom",
       "label": "Nick Bostrom",
-      "path": "People\\Nick Bostrom.md",
+      "path": "People/Nick Bostrom.md",
       "tags": [
         "AI",
         "People",
         "Researcher"
       ],
-      "difficulty": "\"advanced\"",
-      "status": "\"evergreen\""
+      "difficulty": "advanced",
+      "status": "evergreen"
     },
     {
       "id": "Sam Altman",
       "label": "Sam Altman",
-      "path": "People\\Sam Altman.md",
+      "path": "People/Sam Altman.md",
       "tags": [
         "AI",
         "People",
         "CEO"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "Satya Nadella",
       "label": "Satya Nadella",
-      "path": "People\\Satya Nadella.md",
+      "path": "People/Satya Nadella.md",
       "tags": [
         "AI",
         "People",
         "CEO"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "Sundar Pichai",
       "label": "Sundar Pichai",
-      "path": "People\\Sundar Pichai.md",
+      "path": "People/Sundar Pichai.md",
       "tags": [
         "AI",
         "People",
         "CEO"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "Timnit Gebru",
       "label": "Timnit Gebru",
-      "path": "People\\Timnit Gebru.md",
+      "path": "People/Timnit Gebru.md",
       "tags": [
         "AI",
         "People",
         "Ethics"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
+      "difficulty": "intermediate",
+      "status": "evergreen"
     },
     {
       "id": "Yann LeCun",
       "label": "Yann LeCun",
-      "path": "People\\Yann LeCun.md",
+      "path": "People/Yann LeCun.md",
       "tags": [
         "AI",
         "People",
         "Researcher"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
+      "difficulty": "intermediate",
+      "status": "evergreen"
     },
     {
       "id": "Yoshua Bengio",
       "label": "Yoshua Bengio",
-      "path": "People\\Yoshua Bengio.md",
+      "path": "People/Yoshua Bengio.md",
       "tags": [
         "AI",
         "People",
         "Researcher",
         "Godfather"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
+      "difficulty": "intermediate",
+      "status": "evergreen"
     },
     {
       "id": "README",
@@ -1538,249 +1785,303 @@
       "status": "seed"
     },
     {
-      "id": "Adobe Firefly 3",
-      "label": "Adobe Firefly 3",
-      "path": "Tools\\Adobe Firefly 3.md",
-      "tags": [],
-      "difficulty": "unknown",
-      "status": "seed"
-    },
-    {
-      "id": "Agentic AI",
-      "label": "Agentic AI",
-      "path": "Tools\\Agentic AI.md",
-      "tags": [],
-      "difficulty": "unknown",
-      "status": "seed"
-    },
-    {
       "id": "AI Agent",
       "label": "AI Agent",
-      "path": "Tools\\AI Agent.md",
-      "tags": [],
+      "path": "Tools/AI Agent.md",
+      "tags": [
+        "AI",
+        "Agents"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "AI Personas & Avatars",
       "label": "AI Personas & Avatars",
-      "path": "Tools\\AI Personas & Avatars.md",
-      "tags": [],
+      "path": "Tools/AI Personas & Avatars.md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "AMI Labs",
       "label": "AMI Labs",
-      "path": "Tools\\AMI Labs.md",
-      "tags": [],
+      "path": "Tools/AMI Labs.md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
+      "difficulty": "unknown",
+      "status": "seed"
+    },
+    {
+      "id": "Adobe Firefly 3",
+      "label": "Adobe Firefly 3",
+      "path": "Tools/Adobe Firefly 3.md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
+      "difficulty": "unknown",
+      "status": "seed"
+    },
+    {
+      "id": "Agentic AI",
+      "label": "Agentic AI",
+      "path": "Tools/Agentic AI.md",
+      "tags": [
+        "AI",
+        "Agents"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Anthropic",
       "label": "Anthropic",
-      "path": "Tools\\Anthropic.md",
-      "tags": [],
+      "path": "Tools/Anthropic.md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "AnythingLLM",
       "label": "AnythingLLM",
-      "path": "Tools\\AnythingLLM.md",
-      "tags": [],
+      "path": "Tools/AnythingLLM.md",
+      "tags": [
+        "AI",
+        "Deployment"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Bolt.new (StackBlitz)",
       "label": "Bolt.new (StackBlitz)",
-      "path": "Tools\\Bolt.new (StackBlitz).md",
-      "tags": [],
+      "path": "Tools/Bolt.new (StackBlitz).md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Builder.io",
       "label": "Builder.io",
-      "path": "Tools\\Builder.io.md",
+      "path": "Tools/Builder.io.md",
       "tags": [
         "AI",
         "Tools",
         "Design"
       ],
       "difficulty": "unknown",
-      "status": "\"seed\""
+      "status": "seed"
     },
     {
       "id": "Canva Magic Studio",
       "label": "Canva Magic Studio",
-      "path": "Tools\\Canva Magic Studio.md",
+      "path": "Tools/Canva Magic Studio.md",
       "tags": [
         "AI",
         "Tools",
         "Design"
       ],
       "difficulty": "unknown",
-      "status": "\"seed\""
+      "status": "seed"
     },
     {
       "id": "Cerebras (WSE-3)",
       "label": "Cerebras (WSE-3)",
-      "path": "Tools\\Cerebras (WSE-3).md",
-      "tags": [],
+      "path": "Tools/Cerebras (WSE-3).md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "ChatGPT (OpenAI)",
       "label": "ChatGPT (OpenAI)",
-      "path": "Tools\\ChatGPT (OpenAI).md",
+      "path": "Tools/ChatGPT (OpenAI).md",
       "tags": [
         "AI",
         "Tools",
         "Assistant"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "ChatGPT Search",
       "label": "ChatGPT Search",
-      "path": "Tools\\ChatGPT Search.md",
-      "tags": [],
+      "path": "Tools/ChatGPT Search.md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Claude (Anthropic)",
       "label": "Claude (Anthropic)",
-      "path": "Tools\\Claude (Anthropic).md",
+      "path": "Tools/Claude (Anthropic).md",
       "tags": [
         "AI",
         "Tools",
         "Assistant"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "Claude Code (Anthropic)",
       "label": "Claude Code (Anthropic)",
-      "path": "Tools\\Claude Code (Anthropic).md",
+      "path": "Tools/Claude Code (Anthropic).md",
       "tags": [
         "AI",
         "Tools",
         "Coding"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
+      "difficulty": "intermediate",
+      "status": "evergreen"
     },
     {
       "id": "Comet (Perplexity)",
       "label": "Comet (Perplexity)",
-      "path": "Tools\\Comet (Perplexity).md",
-      "tags": [],
+      "path": "Tools/Comet (Perplexity).md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "CrewAI",
       "label": "CrewAI",
-      "path": "Tools\\CrewAI.md",
-      "tags": [],
+      "path": "Tools/CrewAI.md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Cursor",
       "label": "Cursor",
-      "path": "Tools\\Cursor.md",
+      "path": "Tools/Cursor.md",
       "tags": [
         "AI",
         "Tools",
         "Coding"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "DALL-E 4 (OpenAI)",
       "label": "DALL-E 4 (OpenAI)",
-      "path": "Tools\\DALL-E 4 (OpenAI).md",
-      "tags": [],
+      "path": "Tools/DALL-E 4 (OpenAI).md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "DeepSeek Chat",
       "label": "DeepSeek Chat",
-      "path": "Tools\\DeepSeek Chat.md",
+      "path": "Tools/DeepSeek Chat.md",
       "tags": [
         "AI",
         "Tools",
         "Search"
       ],
       "difficulty": "unknown",
-      "status": "\"seed\""
+      "status": "seed"
     },
     {
       "id": "DeepSeek",
       "label": "DeepSeek",
-      "path": "Tools\\DeepSeek.md",
-      "tags": [],
+      "path": "Tools/DeepSeek.md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Descript",
       "label": "Descript",
-      "path": "Tools\\Descript.md",
+      "path": "Tools/Descript.md",
       "tags": [
         "AI",
         "Tools",
         "Video"
       ],
       "difficulty": "unknown",
-      "status": "\"seed\""
+      "status": "seed"
     },
     {
       "id": "Devin 2.0 (Cognition)",
       "label": "Devin 2.0 (Cognition)",
-      "path": "Tools\\Devin 2.0 (Cognition).md",
-      "tags": [],
+      "path": "Tools/Devin 2.0 (Cognition).md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Devstral (Mistral)",
       "label": "Devstral (Mistral)",
-      "path": "Tools\\Devstral (Mistral).md",
-      "tags": [],
+      "path": "Tools/Devstral (Mistral).md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Docker",
       "label": "Docker",
-      "path": "Tools\\Docker.md",
-      "tags": [],
+      "path": "Tools/Docker.md",
+      "tags": [
+        "AI",
+        "Deployment"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "ElevenLabs",
       "label": "ElevenLabs",
-      "path": "Tools\\ElevenLabs.md",
-      "tags": [],
+      "path": "Tools/ElevenLabs.md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Function Calling",
       "label": "Function Calling",
-      "path": "Tools\\Function Calling.md",
+      "path": "Tools/Function Calling.md",
       "tags": [
         "AI",
         "Agents"
@@ -1791,519 +2092,593 @@
     {
       "id": "Gemini (Google)",
       "label": "Gemini (Google)",
-      "path": "Tools\\Gemini (Google).md",
+      "path": "Tools/Gemini (Google).md",
       "tags": [
         "AI",
         "Tools",
         "Assistant"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "GitHub Copilot _ Copilot Enterprise (Microsoft)",
       "label": "GitHub Copilot _ Copilot Enterprise (Microsoft)",
-      "path": "Tools\\GitHub Copilot _ Copilot Enterprise (Microsoft).md",
+      "path": "Tools/GitHub Copilot _ Copilot Enterprise (Microsoft).md",
       "tags": [
         "AI",
         "Tools",
         "Coding"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "Google ADK",
       "label": "Google ADK",
-      "path": "Tools\\Google ADK.md",
-      "tags": [],
+      "path": "Tools/Google ADK.md",
+      "tags": [
+        "AI",
+        "Agents"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Google Antigravity",
       "label": "Google Antigravity",
-      "path": "Tools\\Google Antigravity.md",
-      "tags": [],
+      "path": "Tools/Google Antigravity.md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Google DeepMind Genie 3",
       "label": "Google DeepMind Genie 3",
-      "path": "Tools\\Google DeepMind Genie 3.md",
+      "path": "Tools/Google DeepMind Genie 3.md",
       "tags": [
         "AI",
         "Tools",
         "Robotics"
       ],
       "difficulty": "unknown",
-      "status": "\"seed\""
+      "status": "seed"
     },
     {
       "id": "Google DeepMind",
       "label": "Google DeepMind",
-      "path": "Tools\\Google DeepMind.md",
-      "tags": [],
+      "path": "Tools/Google DeepMind.md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Google Search AI Mode",
       "label": "Google Search AI Mode",
-      "path": "Tools\\Google Search AI Mode.md",
+      "path": "Tools/Google Search AI Mode.md",
       "tags": [
         "AI",
         "Tools",
         "Search"
       ],
       "difficulty": "unknown",
-      "status": "\"seed\""
+      "status": "seed"
     },
     {
       "id": "Google TPU v7 (Ironwood)",
       "label": "Google TPU v7 (Ironwood)",
-      "path": "Tools\\Google TPU v7 (Ironwood).md",
-      "tags": [],
+      "path": "Tools/Google TPU v7 (Ironwood).md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Google Veo 3",
       "label": "Google Veo 3",
-      "path": "Tools\\Google Veo 3.md",
+      "path": "Tools/Google Veo 3.md",
       "tags": [
         "AI",
         "Tools",
         "Video"
       ],
       "difficulty": "unknown",
-      "status": "\"seed\""
+      "status": "seed"
     },
     {
       "id": "Google Workspace + Gemini",
       "label": "Google Workspace + Gemini",
-      "path": "Tools\\Google Workspace + Gemini.md",
+      "path": "Tools/Google Workspace + Gemini.md",
       "tags": [
         "AI",
         "Tools",
         "Workspace"
       ],
       "difficulty": "unknown",
-      "status": "\"seed\""
+      "status": "seed"
     },
     {
       "id": "Grok (xAI)",
       "label": "Grok (xAI)",
-      "path": "Tools\\Grok (xAI).md",
+      "path": "Tools/Grok (xAI).md",
       "tags": [
         "AI",
         "Tools",
         "Assistant"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "Groq (LPU)",
       "label": "Groq (LPU)",
-      "path": "Tools\\Groq (LPU).md",
-      "tags": [],
+      "path": "Tools/Groq (LPU).md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Hermes Agent",
       "label": "Hermes Agent",
-      "path": "Tools\\Hermes Agent.md",
-      "tags": [],
+      "path": "Tools/Hermes Agent.md",
+      "tags": [
+        "AI",
+        "Agents"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "HeyGen",
       "label": "HeyGen",
-      "path": "Tools\\HeyGen.md",
+      "path": "Tools/HeyGen.md",
       "tags": [
         "AI",
         "Tools",
         "Video"
       ],
       "difficulty": "unknown",
-      "status": "\"seed\""
+      "status": "seed"
     },
     {
       "id": "Hugging Face",
       "label": "Hugging Face",
-      "path": "Tools\\Hugging Face.md",
+      "path": "Tools/Hugging Face.md",
       "tags": [
         "AI",
         "Tools",
         "Platform"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "HypeAuditor",
       "label": "HypeAuditor",
-      "path": "Tools\\HypeAuditor.md",
+      "path": "Tools/HypeAuditor.md",
       "tags": [
         "AI",
         "Tools",
         "Marketing"
       ],
       "difficulty": "unknown",
-      "status": "\"seed\""
+      "status": "seed"
     },
     {
       "id": "Inference",
       "label": "Inference",
-      "path": "Tools\\Inference.md",
-      "tags": [],
+      "path": "Tools/Inference.md",
+      "tags": [
+        "AI",
+        "Deployment"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Jasper",
       "label": "Jasper",
-      "path": "Tools\\Jasper.md",
+      "path": "Tools/Jasper.md",
       "tags": [
         "AI",
         "Tools",
         "Writing"
       ],
       "difficulty": "unknown",
-      "status": "\"seed\""
+      "status": "seed"
     },
     {
       "id": "Jules (Google)",
       "label": "Jules (Google)",
-      "path": "Tools\\Jules (Google).md",
-      "tags": [],
-      "difficulty": "unknown",
-      "status": "seed"
-    },
-    {
-      "id": "LangChain _ LangGraph",
-      "label": "LangChain _ LangGraph",
-      "path": "Tools\\LangChain _ LangGraph.md",
-      "tags": [],
+      "path": "Tools/Jules (Google).md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "LLM VPS",
       "label": "LLM VPS",
-      "path": "Tools\\LLM VPS.md",
-      "tags": [],
+      "path": "Tools/LLM VPS.md",
+      "tags": [
+        "AI",
+        "Deployment"
+      ],
+      "difficulty": "unknown",
+      "status": "seed"
+    },
+    {
+      "id": "LangChain _ LangGraph",
+      "label": "LangChain _ LangGraph",
+      "path": "Tools/LangChain _ LangGraph.md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Lovable",
       "label": "Lovable",
-      "path": "Tools\\Lovable.md",
+      "path": "Tools/Lovable.md",
       "tags": [
         "AI",
         "Tools",
         "Coding"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
+    },
+    {
+      "id": "MCP (Model Context Protocol)",
+      "label": "MCP (Model Context Protocol)",
+      "path": "Tools/MCP (Model Context Protocol).md",
+      "tags": [
+        "AI",
+        "Tools",
+        "Platform"
+      ],
+      "difficulty": "intermediate",
+      "status": "evergreen"
+    },
+    {
+      "id": "MCP",
+      "label": "MCP",
+      "path": "Tools/MCP.md",
+      "tags": [
+        "AI",
+        "Deployment"
+      ],
+      "difficulty": "unknown",
+      "status": "seed"
     },
     {
       "id": "Make (formerly Integromat)",
       "label": "Make (formerly Integromat)",
-      "path": "Tools\\Make (formerly Integromat).md",
+      "path": "Tools/Make (formerly Integromat).md",
       "tags": [
         "AI",
         "Tools",
         "Automation"
       ],
       "difficulty": "unknown",
-      "status": "\"seed\""
+      "status": "seed"
     },
     {
       "id": "Manus AI",
       "label": "Manus AI",
-      "path": "Tools\\Manus AI.md",
-      "tags": [],
-      "difficulty": "unknown",
-      "status": "seed"
-    },
-    {
-      "id": "MCP (Model Context Protocol)",
-      "label": "MCP (Model Context Protocol)",
-      "path": "Tools\\MCP (Model Context Protocol).md",
+      "path": "Tools/Manus AI.md",
       "tags": [
         "AI",
-        "Tools",
-        "Platform"
+        "Tools"
       ],
-      "difficulty": "\"intermediate\"",
-      "status": "\"evergreen\""
-    },
-    {
-      "id": "MCP",
-      "label": "MCP",
-      "path": "Tools\\MCP.md",
-      "tags": [],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Memory",
       "label": "Memory",
-      "path": "Tools\\Memory.md",
-      "tags": [],
+      "path": "Tools/Memory.md",
+      "tags": [
+        "AI",
+        "Agents"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Meta AI (Muse Spark)",
       "label": "Meta AI (Muse Spark)",
-      "path": "Tools\\Meta AI (Muse Spark).md",
+      "path": "Tools/Meta AI (Muse Spark).md",
       "tags": [
         "AI",
         "Tools",
         "Assistant"
       ],
       "difficulty": "unknown",
-      "status": "\"seed\""
+      "status": "seed"
     },
     {
       "id": "Microsoft 365 Copilot",
       "label": "Microsoft 365 Copilot",
-      "path": "Tools\\Microsoft 365 Copilot.md",
-      "tags": [],
+      "path": "Tools/Microsoft 365 Copilot.md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Microsoft Copilot",
       "label": "Microsoft Copilot",
-      "path": "Tools\\Microsoft Copilot.md",
+      "path": "Tools/Microsoft Copilot.md",
       "tags": [
         "AI",
         "Tools",
         "Coding"
       ],
       "difficulty": "unknown",
-      "status": "\"seed\""
+      "status": "seed"
     },
     {
       "id": "Midjourney v7",
       "label": "Midjourney v7",
-      "path": "Tools\\Midjourney v7.md",
+      "path": "Tools/Midjourney v7.md",
       "tags": [
         "AI",
         "Tools",
         "Image"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "Mistral Le Chat",
       "label": "Mistral Le Chat",
-      "path": "Tools\\Mistral Le Chat.md",
+      "path": "Tools/Mistral Le Chat.md",
       "tags": [
         "AI",
         "Tools",
         "Coding"
       ],
       "difficulty": "unknown",
-      "status": "\"seed\""
-    },
-    {
-      "id": "n8n",
-      "label": "n8n",
-      "path": "Tools\\n8n.md",
-      "tags": [
-        "AI",
-        "Tools",
-        "Automation"
-      ],
-      "difficulty": "unknown",
-      "status": "\"seed\""
-    },
-    {
-      "id": "NemoClaw (NVIDIA)",
-      "label": "NemoClaw (NVIDIA)",
-      "path": "Tools\\NemoClaw (NVIDIA).md",
-      "tags": [],
-      "difficulty": "unknown",
       "status": "seed"
-    },
-    {
-      "id": "NotebookLM",
-      "label": "NotebookLM",
-      "path": "Tools\\NotebookLM.md",
-      "tags": [],
-      "difficulty": "unknown",
-      "status": "seed"
-    },
-    {
-      "id": "Notion AI",
-      "label": "Notion AI",
-      "path": "Tools\\Notion AI.md",
-      "tags": [
-        "AI",
-        "Tools",
-        "Productivity"
-      ],
-      "difficulty": "unknown",
-      "status": "\"seed\""
     },
     {
       "id": "NVIDIA Cosmos",
       "label": "NVIDIA Cosmos",
-      "path": "Tools\\NVIDIA Cosmos.md",
-      "tags": [],
+      "path": "Tools/NVIDIA Cosmos.md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "NVIDIA GPUs (Blackwell)",
       "label": "NVIDIA GPUs (Blackwell)",
-      "path": "Tools\\NVIDIA GPUs (Blackwell).md",
-      "tags": [],
+      "path": "Tools/NVIDIA GPUs (Blackwell).md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "NVIDIA Vera CPU",
       "label": "NVIDIA Vera CPU",
-      "path": "Tools\\NVIDIA Vera CPU.md",
+      "path": "Tools/NVIDIA Vera CPU.md",
       "tags": [
         "AI",
         "Tools",
         "NVIDIA"
       ],
       "difficulty": "unknown",
-      "status": "\"seed\""
+      "status": "seed"
+    },
+    {
+      "id": "NemoClaw (NVIDIA)",
+      "label": "NemoClaw (NVIDIA)",
+      "path": "Tools/NemoClaw (NVIDIA).md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
+      "difficulty": "unknown",
+      "status": "seed"
+    },
+    {
+      "id": "NotebookLM",
+      "label": "NotebookLM",
+      "path": "Tools/NotebookLM.md",
+      "tags": [
+        "AI",
+        "Tools",
+        "Research",
+        "Google"
+      ],
+      "difficulty": "unknown",
+      "status": "seed"
+    },
+    {
+      "id": "Notion AI",
+      "label": "Notion AI",
+      "path": "Tools/Notion AI.md",
+      "tags": [
+        "AI",
+        "Tools",
+        "Productivity"
+      ],
+      "difficulty": "unknown",
+      "status": "seed"
     },
     {
       "id": "Ollama",
       "label": "Ollama",
-      "path": "Tools\\Ollama.md",
-      "tags": [],
+      "path": "Tools/Ollama.md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "OpenAI",
       "label": "OpenAI",
-      "path": "Tools\\OpenAI.md",
-      "tags": [],
+      "path": "Tools/OpenAI.md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "OpenClaw",
       "label": "OpenClaw",
-      "path": "Tools\\OpenClaw.md",
-      "tags": [],
+      "path": "Tools/OpenClaw.md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Perplexity AI",
       "label": "Perplexity AI",
-      "path": "Tools\\Perplexity AI.md",
+      "path": "Tools/Perplexity AI.md",
       "tags": [
         "AI",
         "Tools",
         "Search"
       ],
-      "difficulty": "\"beginner\"",
-      "status": "\"evergreen\""
+      "difficulty": "beginner",
+      "status": "evergreen"
     },
     {
       "id": "Perplexity Computer",
       "label": "Perplexity Computer",
-      "path": "Tools\\Perplexity Computer.md",
-      "tags": [],
+      "path": "Tools/Perplexity Computer.md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Qodo",
       "label": "Qodo",
-      "path": "Tools\\Qodo.md",
+      "path": "Tools/Qodo.md",
       "tags": [
         "AI",
         "Tools",
         "Coding"
       ],
       "difficulty": "unknown",
-      "status": "\"seed\""
+      "status": "seed"
     },
     {
       "id": "Quantisation",
       "label": "Quantisation",
-      "path": "Tools\\Quantisation.md",
-      "tags": [],
+      "path": "Tools/Quantisation.md",
+      "tags": [
+        "AI",
+        "Deployment"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "ReAct",
       "label": "ReAct",
-      "path": "Tools\\ReAct.md",
-      "tags": [],
+      "path": "Tools/ReAct.md",
+      "tags": [
+        "AI",
+        "Agents"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Reflection",
       "label": "Reflection",
-      "path": "Tools\\Reflection.md",
-      "tags": [],
+      "path": "Tools/Reflection.md",
+      "tags": [
+        "AI",
+        "Agents"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Replit Agent",
       "label": "Replit Agent",
-      "path": "Tools\\Replit Agent.md",
-      "tags": [],
+      "path": "Tools/Replit Agent.md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Runway Gen-4",
       "label": "Runway Gen-4",
-      "path": "Tools\\Runway Gen-4.md",
-      "tags": [],
+      "path": "Tools/Runway Gen-4.md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Scale AI",
       "label": "Scale AI",
-      "path": "Tools\\Scale AI.md",
-      "tags": [],
+      "path": "Tools/Scale AI.md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Seeddance 2.0 (ByteDance)",
       "label": "Seeddance 2.0 (ByteDance)",
-      "path": "Tools\\Seeddance 2.0 (ByteDance).md",
+      "path": "Tools/Seeddance 2.0 (ByteDance).md",
       "tags": [
         "AI",
         "Tools",
         "Video"
       ],
       "difficulty": "unknown",
-      "status": "\"seed\""
+      "status": "seed"
     },
     {
       "id": "Skills",
       "label": "Skills",
-      "path": "Tools\\Skills.md",
+      "path": "Tools/Skills.md",
       "tags": [
         "AI",
         "Agents"
@@ -2314,126 +2689,162 @@
     {
       "id": "Snyk _ DeepCode",
       "label": "Snyk _ DeepCode",
-      "path": "Tools\\Snyk _ DeepCode.md",
+      "path": "Tools/Snyk _ DeepCode.md",
       "tags": [
         "AI",
         "Tools",
         "Security"
       ],
       "difficulty": "unknown",
-      "status": "\"seed\""
+      "status": "seed"
     },
     {
       "id": "Sora 2 (OpenAI)",
       "label": "Sora 2 (OpenAI)",
-      "path": "Tools\\Sora 2 (OpenAI).md",
-      "tags": [],
+      "path": "Tools/Sora 2 (OpenAI).md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Stable Diffusion 4 (Stability AI)",
       "label": "Stable Diffusion 4 (Stability AI)",
-      "path": "Tools\\Stable Diffusion 4 (Stability AI).md",
-      "tags": [],
+      "path": "Tools/Stable Diffusion 4 (Stability AI).md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Suno v5",
       "label": "Suno v5",
-      "path": "Tools\\Suno v5.md",
-      "tags": [],
+      "path": "Tools/Suno v5.md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Synthesia",
       "label": "Synthesia",
-      "path": "Tools\\Synthesia.md",
+      "path": "Tools/Synthesia.md",
       "tags": [
         "AI",
         "Tools",
         "Video"
       ],
       "difficulty": "unknown",
-      "status": "\"seed\""
+      "status": "seed"
     },
     {
       "id": "Udio",
       "label": "Udio",
-      "path": "Tools\\Udio.md",
+      "path": "Tools/Udio.md",
       "tags": [
         "AI",
         "Tools",
         "Music"
       ],
       "difficulty": "unknown",
-      "status": "\"seed\""
+      "status": "seed"
     },
     {
       "id": "Upfluence & Modash",
       "label": "Upfluence & Modash",
-      "path": "Tools\\Upfluence & Modash.md",
+      "path": "Tools/Upfluence & Modash.md",
       "tags": [
         "AI",
         "Tools",
         "Marketing"
       ],
       "difficulty": "unknown",
-      "status": "\"seed\""
-    },
-    {
-      "id": "v0 (Vercel)",
-      "label": "v0 (Vercel)",
-      "path": "Tools\\v0 (Vercel).md",
-      "tags": [],
-      "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Vibe Coding",
       "label": "Vibe Coding",
-      "path": "Tools\\Vibe Coding.md",
-      "tags": [],
+      "path": "Tools/Vibe Coding.md",
+      "tags": [
+        "AI",
+        "Agents"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Windsurf",
       "label": "Windsurf",
-      "path": "Tools\\Windsurf.md",
-      "tags": [],
+      "path": "Tools/Windsurf.md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "World Labs Marble",
       "label": "World Labs Marble",
-      "path": "Tools\\World Labs Marble.md",
-      "tags": [],
-      "difficulty": "unknown",
-      "status": "seed"
-    },
-    {
-      "id": "xAI",
-      "label": "xAI",
-      "path": "Tools\\xAI.md",
-      "tags": [],
+      "path": "Tools/World Labs Marble.md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
       "difficulty": "unknown",
       "status": "seed"
     },
     {
       "id": "Zapier AI Central",
       "label": "Zapier AI Central",
-      "path": "Tools\\Zapier AI Central.md",
+      "path": "Tools/Zapier AI Central.md",
       "tags": [
         "AI",
         "Tools",
         "Automation"
       ],
       "difficulty": "unknown",
-      "status": "\"seed\""
+      "status": "seed"
+    },
+    {
+      "id": "n8n",
+      "label": "n8n",
+      "path": "Tools/n8n.md",
+      "tags": [
+        "AI",
+        "Tools",
+        "Automation"
+      ],
+      "difficulty": "unknown",
+      "status": "seed"
+    },
+    {
+      "id": "v0 (Vercel)",
+      "label": "v0 (Vercel)",
+      "path": "Tools/v0 (Vercel).md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
+      "difficulty": "unknown",
+      "status": "seed"
+    },
+    {
+      "id": "xAI",
+      "label": "xAI",
+      "path": "Tools/xAI.md",
+      "tags": [
+        "AI",
+        "Tools"
+      ],
+      "difficulty": "unknown",
+      "status": "seed"
     },
     {
       "id": "Tools and Platforms Directory",
@@ -2454,181 +2865,21 @@
       ],
       "difficulty": "unknown",
       "status": "seed"
+    },
+    {
+      "id": "index",
+      "label": "index",
+      "path": "index.md",
+      "tags": [
+        "AI",
+        "Index",
+        "Dashboard"
+      ],
+      "difficulty": "unknown",
+      "status": "seed"
     }
   ],
   "links": [
-    {
-      "source": "Advanced Path",
-      "target": "AI Agent"
-    },
-    {
-      "source": "Advanced Path",
-      "target": "Agentic AI"
-    },
-    {
-      "source": "Advanced Path",
-      "target": "ReAct"
-    },
-    {
-      "source": "Advanced Path",
-      "target": "Function Calling"
-    },
-    {
-      "source": "Advanced Path",
-      "target": "MCP"
-    },
-    {
-      "source": "Advanced Path",
-      "target": "Memory"
-    },
-    {
-      "source": "Advanced Path",
-      "target": "Reflection"
-    },
-    {
-      "source": "Advanced Path",
-      "target": "Orchestrator"
-    },
-    {
-      "source": "Advanced Path",
-      "target": "CrewAI"
-    },
-    {
-      "source": "Advanced Path",
-      "target": "LangChain _ LangGraph"
-    },
-    {
-      "source": "Advanced Path",
-      "target": "Reasoning Model"
-    },
-    {
-      "source": "Advanced Path",
-      "target": "World Model"
-    },
-    {
-      "source": "Advanced Path",
-      "target": "Multimodal AI"
-    },
-    {
-      "source": "Advanced Path",
-      "target": "Embodied AI"
-    },
-    {
-      "source": "Advanced Path",
-      "target": "SSM"
-    },
-    {
-      "source": "Advanced Path",
-      "target": "Diffusion Model"
-    },
-    {
-      "source": "Advanced Path",
-      "target": "GAN"
-    },
-    {
-      "source": "Advanced Path",
-      "target": "AGI"
-    },
-    {
-      "source": "Advanced Path",
-      "target": "AI Safety"
-    },
-    {
-      "source": "Advanced Path",
-      "target": "AI Alignment"
-    },
-    {
-      "source": "Advanced Path",
-      "target": "Constitutional AI"
-    },
-    {
-      "source": "Advanced Path",
-      "target": "Interpretability"
-    },
-    {
-      "source": "Advanced Path",
-      "target": "Red-teaming"
-    },
-    {
-      "source": "Advanced Path",
-      "target": "Guardrails"
-    },
-    {
-      "source": "Advanced Path",
-      "target": "Prompt Injection"
-    },
-    {
-      "source": "Advanced Path",
-      "target": "Jailbreak"
-    },
-    {
-      "source": "Advanced Path",
-      "target": "Model Collapse"
-    },
-    {
-      "source": "Advanced Path",
-      "target": "EU AI Act"
-    },
-    {
-      "source": "Advanced Path",
-      "target": "C2PA"
-    },
-    {
-      "source": "Advanced Path",
-      "target": "AI Sovereignty"
-    },
-    {
-      "source": "AI for Business Leaders",
-      "target": "AI Agent"
-    },
-    {
-      "source": "AI for Business Leaders",
-      "target": "OpenClaw"
-    },
-    {
-      "source": "AI for Business Leaders",
-      "target": "NemoClaw (NVIDIA)"
-    },
-    {
-      "source": "AI for Business Leaders",
-      "target": "Lovable"
-    },
-    {
-      "source": "AI for Business Leaders",
-      "target": "Bolt.new (StackBlitz)"
-    },
-    {
-      "source": "AI for Business Leaders",
-      "target": "Hallucination"
-    },
-    {
-      "source": "AI for Business Leaders",
-      "target": "Perplexity AI"
-    },
-    {
-      "source": "AI for Business Leaders",
-      "target": "NotebookLM"
-    },
-    {
-      "source": "AI for Business Leaders",
-      "target": "AI Sovereignty"
-    },
-    {
-      "source": "AI for Business Leaders",
-      "target": "Prompt Engineering"
-    },
-    {
-      "source": "AI for Business Leaders",
-      "target": "EU AI Act"
-    },
-    {
-      "source": "AI for Business Leaders",
-      "target": "C2PA"
-    },
-    {
-      "source": "AI for Business Leaders",
-      "target": "Reasoning Model"
-    },
     {
       "source": "AI Risks and Safety",
       "target": "Hallucination"
@@ -2792,6 +3043,178 @@
     {
       "source": "AI Timeline 2012-2026",
       "target": "EU AI Act"
+    },
+    {
+      "source": "AI for Business Leaders",
+      "target": "AI Agent"
+    },
+    {
+      "source": "AI for Business Leaders",
+      "target": "OpenClaw"
+    },
+    {
+      "source": "AI for Business Leaders",
+      "target": "NemoClaw (NVIDIA)"
+    },
+    {
+      "source": "AI for Business Leaders",
+      "target": "Lovable"
+    },
+    {
+      "source": "AI for Business Leaders",
+      "target": "Bolt.new (StackBlitz)"
+    },
+    {
+      "source": "AI for Business Leaders",
+      "target": "Hallucination"
+    },
+    {
+      "source": "AI for Business Leaders",
+      "target": "Perplexity AI"
+    },
+    {
+      "source": "AI for Business Leaders",
+      "target": "NotebookLM"
+    },
+    {
+      "source": "AI for Business Leaders",
+      "target": "AI Sovereignty"
+    },
+    {
+      "source": "AI for Business Leaders",
+      "target": "Prompt Engineering"
+    },
+    {
+      "source": "AI for Business Leaders",
+      "target": "EU AI Act"
+    },
+    {
+      "source": "AI for Business Leaders",
+      "target": "C2PA"
+    },
+    {
+      "source": "AI for Business Leaders",
+      "target": "Reasoning Model"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "AI Agent"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "Agentic AI"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "ReAct"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "Function Calling"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "MCP"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "Memory"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "Reflection"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "Orchestrator"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "CrewAI"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "LangChain _ LangGraph"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "Reasoning Model"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "World Model"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "Multimodal AI"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "Embodied AI"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "SSM"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "Diffusion Model"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "GAN"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "AGI"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "AI Safety"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "AI Alignment"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "Constitutional AI"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "Interpretability"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "Red-teaming"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "Guardrails"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "Prompt Injection"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "Jailbreak"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "Model Collapse"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "EU AI Act"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "C2PA"
+    },
+    {
+      "source": "Advanced Path",
+      "target": "AI Sovereignty"
     },
     {
       "source": "Beginner Path",
@@ -3006,6 +3429,10 @@
       "target": "Hugging Face"
     },
     {
+      "source": "ESP32",
+      "target": "Edge AI"
+    },
+    {
       "source": "Edge AI",
       "target": "SLM"
     },
@@ -3068,10 +3495,6 @@
     {
       "source": "ElevenLabs",
       "target": "C2PA"
-    },
-    {
-      "source": "ESP32",
-      "target": "Edge AI"
     },
     {
       "source": "Google DeepMind",
@@ -3726,82 +4149,6 @@
       "target": "DeepSeek"
     },
     {
-      "source": "AnythingLLM",
-      "target": "RAG"
-    },
-    {
-      "source": "AnythingLLM",
-      "target": "AI Agent"
-    },
-    {
-      "source": "AnythingLLM",
-      "target": "LLM"
-    },
-    {
-      "source": "AnythingLLM",
-      "target": "Ollama"
-    },
-    {
-      "source": "AnythingLLM",
-      "target": "Docker"
-    },
-    {
-      "source": "AnythingLLM",
-      "target": "Ollama"
-    },
-    {
-      "source": "AnythingLLM",
-      "target": "OpenAI"
-    },
-    {
-      "source": "AnythingLLM",
-      "target": "Anthropic"
-    },
-    {
-      "source": "AnythingLLM",
-      "target": "Vector Database"
-    },
-    {
-      "source": "AnythingLLM",
-      "target": "RAG"
-    },
-    {
-      "source": "AnythingLLM",
-      "target": "Ollama"
-    },
-    {
-      "source": "AnythingLLM",
-      "target": "RAG"
-    },
-    {
-      "source": "AnythingLLM",
-      "target": "Vector Database"
-    },
-    {
-      "source": "AnythingLLM",
-      "target": "Embedding"
-    },
-    {
-      "source": "AnythingLLM",
-      "target": "Ollama"
-    },
-    {
-      "source": "AnythingLLM",
-      "target": "OpenAI"
-    },
-    {
-      "source": "AnythingLLM",
-      "target": "Anthropic"
-    },
-    {
-      "source": "AnythingLLM",
-      "target": "Edge AI"
-    },
-    {
-      "source": "AnythingLLM",
-      "target": "Open-Source AI"
-    },
-    {
       "source": "ASI",
       "target": "Ilya Sutskever"
     },
@@ -3900,6 +4247,82 @@
     {
       "source": "ASIC",
       "target": "SLM"
+    },
+    {
+      "source": "AnythingLLM",
+      "target": "RAG"
+    },
+    {
+      "source": "AnythingLLM",
+      "target": "AI Agent"
+    },
+    {
+      "source": "AnythingLLM",
+      "target": "LLM"
+    },
+    {
+      "source": "AnythingLLM",
+      "target": "Ollama"
+    },
+    {
+      "source": "AnythingLLM",
+      "target": "Docker"
+    },
+    {
+      "source": "AnythingLLM",
+      "target": "Ollama"
+    },
+    {
+      "source": "AnythingLLM",
+      "target": "OpenAI"
+    },
+    {
+      "source": "AnythingLLM",
+      "target": "Anthropic"
+    },
+    {
+      "source": "AnythingLLM",
+      "target": "Vector Database"
+    },
+    {
+      "source": "AnythingLLM",
+      "target": "RAG"
+    },
+    {
+      "source": "AnythingLLM",
+      "target": "Ollama"
+    },
+    {
+      "source": "AnythingLLM",
+      "target": "RAG"
+    },
+    {
+      "source": "AnythingLLM",
+      "target": "Vector Database"
+    },
+    {
+      "source": "AnythingLLM",
+      "target": "Embedding"
+    },
+    {
+      "source": "AnythingLLM",
+      "target": "Ollama"
+    },
+    {
+      "source": "AnythingLLM",
+      "target": "OpenAI"
+    },
+    {
+      "source": "AnythingLLM",
+      "target": "Anthropic"
+    },
+    {
+      "source": "AnythingLLM",
+      "target": "Edge AI"
+    },
+    {
+      "source": "AnythingLLM",
+      "target": "Open-Source AI"
     },
     {
       "source": "Attention",
@@ -4018,26 +4441,6 @@
       "target": "Midjourney v7"
     },
     {
-      "source": "Chain-of-Thought",
-      "target": "Reasoning Model"
-    },
-    {
-      "source": "Chain-of-Thought",
-      "target": "Prompt Engineering"
-    },
-    {
-      "source": "Chain-of-Thought",
-      "target": "Reasoning Model"
-    },
-    {
-      "source": "Chain-of-Thought",
-      "target": "AI Agent"
-    },
-    {
-      "source": "Chain-of-Thought",
-      "target": "Reflection"
-    },
-    {
       "source": "CNN",
       "target": "Neural Network"
     },
@@ -4064,6 +4467,58 @@
     {
       "source": "CNN",
       "target": "Transformer"
+    },
+    {
+      "source": "CUDA",
+      "target": "NVIDIA"
+    },
+    {
+      "source": "CUDA",
+      "target": "GPU"
+    },
+    {
+      "source": "CUDA",
+      "target": "GPU"
+    },
+    {
+      "source": "CUDA",
+      "target": "NVIDIA"
+    },
+    {
+      "source": "CUDA",
+      "target": "ASIC"
+    },
+    {
+      "source": "CUDA",
+      "target": "Deep Learning"
+    },
+    {
+      "source": "CUDA",
+      "target": "Pre-Training"
+    },
+    {
+      "source": "CUDA",
+      "target": "Inference"
+    },
+    {
+      "source": "Chain-of-Thought",
+      "target": "Reasoning Model"
+    },
+    {
+      "source": "Chain-of-Thought",
+      "target": "Prompt Engineering"
+    },
+    {
+      "source": "Chain-of-Thought",
+      "target": "Reasoning Model"
+    },
+    {
+      "source": "Chain-of-Thought",
+      "target": "AI Agent"
+    },
+    {
+      "source": "Chain-of-Thought",
+      "target": "Reflection"
     },
     {
       "source": "Computer Use",
@@ -4190,36 +4645,20 @@
       "target": "Attention"
     },
     {
-      "source": "CUDA",
-      "target": "NVIDIA"
+      "source": "DPO",
+      "target": "RLHF"
     },
     {
-      "source": "CUDA",
-      "target": "GPU"
+      "source": "DPO",
+      "target": "RLHF"
     },
     {
-      "source": "CUDA",
-      "target": "GPU"
+      "source": "DPO",
+      "target": "Fine-Tuning"
     },
     {
-      "source": "CUDA",
-      "target": "NVIDIA"
-    },
-    {
-      "source": "CUDA",
-      "target": "ASIC"
-    },
-    {
-      "source": "CUDA",
-      "target": "Deep Learning"
-    },
-    {
-      "source": "CUDA",
-      "target": "Pre-Training"
-    },
-    {
-      "source": "CUDA",
-      "target": "Inference"
+      "source": "DPO",
+      "target": "AI Alignment"
     },
     {
       "source": "Data-Centric AI",
@@ -4522,20 +4961,40 @@
       "target": "CUDA"
     },
     {
-      "source": "DPO",
-      "target": "RLHF"
+      "source": "EU AI Act",
+      "target": "Mistral AI"
     },
     {
-      "source": "DPO",
-      "target": "RLHF"
+      "source": "EU AI Act",
+      "target": "Guardrails"
     },
     {
-      "source": "DPO",
-      "target": "Fine-Tuning"
+      "source": "EU AI Act",
+      "target": "Interpretability"
     },
     {
-      "source": "DPO",
+      "source": "EU AI Act",
       "target": "AI Alignment"
+    },
+    {
+      "source": "EU AI Act",
+      "target": "AI Safety"
+    },
+    {
+      "source": "EU AI Act",
+      "target": "Guardrails"
+    },
+    {
+      "source": "EU AI Act",
+      "target": "Interpretability"
+    },
+    {
+      "source": "EU AI Act",
+      "target": "C2PA"
+    },
+    {
+      "source": "EU AI Act",
+      "target": "Mistral AI"
     },
     {
       "source": "Edge AI",
@@ -4682,42 +5141,6 @@
       "target": "AGI"
     },
     {
-      "source": "EU AI Act",
-      "target": "Mistral AI"
-    },
-    {
-      "source": "EU AI Act",
-      "target": "Guardrails"
-    },
-    {
-      "source": "EU AI Act",
-      "target": "Interpretability"
-    },
-    {
-      "source": "EU AI Act",
-      "target": "AI Alignment"
-    },
-    {
-      "source": "EU AI Act",
-      "target": "AI Safety"
-    },
-    {
-      "source": "EU AI Act",
-      "target": "Guardrails"
-    },
-    {
-      "source": "EU AI Act",
-      "target": "Interpretability"
-    },
-    {
-      "source": "EU AI Act",
-      "target": "C2PA"
-    },
-    {
-      "source": "EU AI Act",
-      "target": "Mistral AI"
-    },
-    {
       "source": "Few-Shot",
       "target": "In-Context Learning"
     },
@@ -4862,6 +5285,70 @@
       "target": "Deep Learning"
     },
     {
+      "source": "GEO",
+      "target": "Perplexity AI"
+    },
+    {
+      "source": "GEO",
+      "target": "Perplexity AI"
+    },
+    {
+      "source": "GEO",
+      "target": "ChatGPT (OpenAI)"
+    },
+    {
+      "source": "GEO",
+      "target": "Gemini (Google)"
+    },
+    {
+      "source": "GPU",
+      "target": "CUDA"
+    },
+    {
+      "source": "GPU",
+      "target": "NVIDIA"
+    },
+    {
+      "source": "GPU",
+      "target": "Microsoft"
+    },
+    {
+      "source": "GPU",
+      "target": "Google DeepMind"
+    },
+    {
+      "source": "GPU",
+      "target": "ASIC"
+    },
+    {
+      "source": "GPU",
+      "target": "NPU"
+    },
+    {
+      "source": "GPU",
+      "target": "CUDA"
+    },
+    {
+      "source": "GPU",
+      "target": "Pre-Training"
+    },
+    {
+      "source": "GPU",
+      "target": "Inference"
+    },
+    {
+      "source": "GPU",
+      "target": "Deep Learning"
+    },
+    {
+      "source": "GPU",
+      "target": "Quantisation"
+    },
+    {
+      "source": "GPU",
+      "target": "MOC - Infrastructure & Deployment"
+    },
+    {
       "source": "Generative AI",
       "target": "ChatGPT (OpenAI)"
     },
@@ -4932,70 +5419,6 @@
     {
       "source": "Generative AI",
       "target": "Deepfakes"
-    },
-    {
-      "source": "GEO",
-      "target": "Perplexity AI"
-    },
-    {
-      "source": "GEO",
-      "target": "Perplexity AI"
-    },
-    {
-      "source": "GEO",
-      "target": "ChatGPT (OpenAI)"
-    },
-    {
-      "source": "GEO",
-      "target": "Gemini (Google)"
-    },
-    {
-      "source": "GPU",
-      "target": "CUDA"
-    },
-    {
-      "source": "GPU",
-      "target": "NVIDIA"
-    },
-    {
-      "source": "GPU",
-      "target": "Microsoft"
-    },
-    {
-      "source": "GPU",
-      "target": "Google DeepMind"
-    },
-    {
-      "source": "GPU",
-      "target": "ASIC"
-    },
-    {
-      "source": "GPU",
-      "target": "NPU"
-    },
-    {
-      "source": "GPU",
-      "target": "CUDA"
-    },
-    {
-      "source": "GPU",
-      "target": "Pre-Training"
-    },
-    {
-      "source": "GPU",
-      "target": "Inference"
-    },
-    {
-      "source": "GPU",
-      "target": "Deep Learning"
-    },
-    {
-      "source": "GPU",
-      "target": "Quantisation"
-    },
-    {
-      "source": "GPU",
-      "target": "MOC - Infrastructure & Deployment"
     },
     {
       "source": "Gradient Descent",
@@ -5354,142 +5777,6 @@
       "target": "Token"
     },
     {
-      "source": "LangChain",
-      "target": "LLM"
-    },
-    {
-      "source": "LangChain",
-      "target": "AI Agent"
-    },
-    {
-      "source": "LangChain",
-      "target": "RAG"
-    },
-    {
-      "source": "LangChain",
-      "target": "Function Calling"
-    },
-    {
-      "source": "LangChain",
-      "target": "RAG"
-    },
-    {
-      "source": "LangChain",
-      "target": "Vector Database"
-    },
-    {
-      "source": "LangChain",
-      "target": "AI Agent"
-    },
-    {
-      "source": "LangChain",
-      "target": "RAG"
-    },
-    {
-      "source": "LangChain",
-      "target": "Function Calling"
-    },
-    {
-      "source": "LangChain",
-      "target": "CrewAI"
-    },
-    {
-      "source": "LangChain",
-      "target": "AutoGen"
-    },
-    {
-      "source": "LangChain",
-      "target": "Google ADK"
-    },
-    {
-      "source": "LangChain",
-      "target": "Vector Database"
-    },
-    {
-      "source": "LangChain",
-      "target": "MCP"
-    },
-    {
-      "source": "LangChain",
-      "target": "LLM"
-    },
-    {
-      "source": "LangChain",
-      "target": "Embedding"
-    },
-    {
-      "source": "Llama",
-      "target": "Meta AI"
-    },
-    {
-      "source": "Llama",
-      "target": "OpenAI"
-    },
-    {
-      "source": "Llama",
-      "target": "Anthropic"
-    },
-    {
-      "source": "Llama",
-      "target": "Ollama"
-    },
-    {
-      "source": "Llama",
-      "target": "LoRA"
-    },
-    {
-      "source": "Llama",
-      "target": "QLoRA"
-    },
-    {
-      "source": "Llama",
-      "target": "Hugging Face"
-    },
-    {
-      "source": "Llama",
-      "target": "Mark Zuckerberg"
-    },
-    {
-      "source": "Llama",
-      "target": "Meta AI"
-    },
-    {
-      "source": "Llama",
-      "target": "Mark Zuckerberg"
-    },
-    {
-      "source": "Llama",
-      "target": "Yann LeCun"
-    },
-    {
-      "source": "Llama",
-      "target": "Open-Source AI"
-    },
-    {
-      "source": "Llama",
-      "target": "Ollama"
-    },
-    {
-      "source": "Llama",
-      "target": "Hugging Face"
-    },
-    {
-      "source": "Llama",
-      "target": "AnythingLLM"
-    },
-    {
-      "source": "Llama",
-      "target": "Fine-Tuning"
-    },
-    {
-      "source": "Llama",
-      "target": "LoRA"
-    },
-    {
-      "source": "Llama",
-      "target": "QLoRA"
-    },
-    {
       "source": "LLM VPS",
       "target": "LLM"
     },
@@ -5722,6 +6009,142 @@
       "target": "MOC - Training & Optimisation"
     },
     {
+      "source": "LangChain",
+      "target": "LLM"
+    },
+    {
+      "source": "LangChain",
+      "target": "AI Agent"
+    },
+    {
+      "source": "LangChain",
+      "target": "RAG"
+    },
+    {
+      "source": "LangChain",
+      "target": "Function Calling"
+    },
+    {
+      "source": "LangChain",
+      "target": "RAG"
+    },
+    {
+      "source": "LangChain",
+      "target": "Vector Database"
+    },
+    {
+      "source": "LangChain",
+      "target": "AI Agent"
+    },
+    {
+      "source": "LangChain",
+      "target": "RAG"
+    },
+    {
+      "source": "LangChain",
+      "target": "Function Calling"
+    },
+    {
+      "source": "LangChain",
+      "target": "CrewAI"
+    },
+    {
+      "source": "LangChain",
+      "target": "AutoGen"
+    },
+    {
+      "source": "LangChain",
+      "target": "Google ADK"
+    },
+    {
+      "source": "LangChain",
+      "target": "Vector Database"
+    },
+    {
+      "source": "LangChain",
+      "target": "MCP"
+    },
+    {
+      "source": "LangChain",
+      "target": "LLM"
+    },
+    {
+      "source": "LangChain",
+      "target": "Embedding"
+    },
+    {
+      "source": "Llama",
+      "target": "Meta AI"
+    },
+    {
+      "source": "Llama",
+      "target": "OpenAI"
+    },
+    {
+      "source": "Llama",
+      "target": "Anthropic"
+    },
+    {
+      "source": "Llama",
+      "target": "Ollama"
+    },
+    {
+      "source": "Llama",
+      "target": "LoRA"
+    },
+    {
+      "source": "Llama",
+      "target": "QLoRA"
+    },
+    {
+      "source": "Llama",
+      "target": "Hugging Face"
+    },
+    {
+      "source": "Llama",
+      "target": "Mark Zuckerberg"
+    },
+    {
+      "source": "Llama",
+      "target": "Meta AI"
+    },
+    {
+      "source": "Llama",
+      "target": "Mark Zuckerberg"
+    },
+    {
+      "source": "Llama",
+      "target": "Yann LeCun"
+    },
+    {
+      "source": "Llama",
+      "target": "Open-Source AI"
+    },
+    {
+      "source": "Llama",
+      "target": "Ollama"
+    },
+    {
+      "source": "Llama",
+      "target": "Hugging Face"
+    },
+    {
+      "source": "Llama",
+      "target": "AnythingLLM"
+    },
+    {
+      "source": "Llama",
+      "target": "Fine-Tuning"
+    },
+    {
+      "source": "Llama",
+      "target": "LoRA"
+    },
+    {
+      "source": "Llama",
+      "target": "QLoRA"
+    },
+    {
       "source": "LoRA",
       "target": "Fine-Tuning"
     },
@@ -5806,6 +6229,26 @@
       "target": "MOC - Agents & Autonomy"
     },
     {
+      "source": "MoE",
+      "target": "LLM"
+    },
+    {
+      "source": "MoE",
+      "target": "Foundation Model"
+    },
+    {
+      "source": "MoE",
+      "target": "Parameters"
+    },
+    {
+      "source": "MoE",
+      "target": "Transformer"
+    },
+    {
+      "source": "MoE",
+      "target": "Inference"
+    },
+    {
       "source": "Model Collapse",
       "target": "Synthetic Data"
     },
@@ -5828,26 +6271,6 @@
     {
       "source": "Model Collapse",
       "target": "AI Safety"
-    },
-    {
-      "source": "MoE",
-      "target": "LLM"
-    },
-    {
-      "source": "MoE",
-      "target": "Foundation Model"
-    },
-    {
-      "source": "MoE",
-      "target": "Parameters"
-    },
-    {
-      "source": "MoE",
-      "target": "Transformer"
-    },
-    {
-      "source": "MoE",
-      "target": "Inference"
     },
     {
       "source": "Multi-Agent Systems",
@@ -6582,6 +7005,42 @@
       "target": "Fine-Tuning"
     },
     {
+      "source": "RLHF",
+      "target": "Ilya Sutskever"
+    },
+    {
+      "source": "RLHF",
+      "target": "Dario Amodei"
+    },
+    {
+      "source": "RLHF",
+      "target": "DPO"
+    },
+    {
+      "source": "RLHF",
+      "target": "Fine-Tuning"
+    },
+    {
+      "source": "RLHF",
+      "target": "DPO"
+    },
+    {
+      "source": "RLHF",
+      "target": "AI Alignment"
+    },
+    {
+      "source": "RLHF",
+      "target": "AI Safety"
+    },
+    {
+      "source": "RLHF",
+      "target": "Ilya Sutskever"
+    },
+    {
+      "source": "RLHF",
+      "target": "Dario Amodei"
+    },
+    {
       "source": "Reasoning Model",
       "target": "Chain-of-Thought"
     },
@@ -6714,40 +7173,56 @@
       "target": "Ilya Sutskever"
     },
     {
-      "source": "RLHF",
-      "target": "Ilya Sutskever"
+      "source": "SLM",
+      "target": "Quantisation"
     },
     {
-      "source": "RLHF",
-      "target": "Dario Amodei"
+      "source": "SLM",
+      "target": "Edge AI"
     },
     {
-      "source": "RLHF",
-      "target": "DPO"
+      "source": "SLM",
+      "target": "NPU"
     },
     {
-      "source": "RLHF",
-      "target": "Fine-Tuning"
+      "source": "SLM",
+      "target": "ESP32"
     },
     {
-      "source": "RLHF",
-      "target": "DPO"
+      "source": "SLM",
+      "target": "Jetson Nano"
     },
     {
-      "source": "RLHF",
-      "target": "AI Alignment"
+      "source": "SLM",
+      "target": "Quantisation"
     },
     {
-      "source": "RLHF",
-      "target": "AI Safety"
+      "source": "SLM",
+      "target": "Distillation"
     },
     {
-      "source": "RLHF",
-      "target": "Ilya Sutskever"
+      "source": "SLM",
+      "target": "Ollama"
     },
     {
-      "source": "RLHF",
-      "target": "Dario Amodei"
+      "source": "SLM",
+      "target": "LLM"
+    },
+    {
+      "source": "SSM",
+      "target": "Transformer"
+    },
+    {
+      "source": "SSM",
+      "target": "Transformer"
+    },
+    {
+      "source": "SSM",
+      "target": "Attention"
+    },
+    {
+      "source": "SSM",
+      "target": "Context Window"
     },
     {
       "source": "Scaling Laws",
@@ -6836,58 +7311,6 @@
     {
       "source": "Skill File",
       "target": "MCP"
-    },
-    {
-      "source": "SLM",
-      "target": "Quantisation"
-    },
-    {
-      "source": "SLM",
-      "target": "Edge AI"
-    },
-    {
-      "source": "SLM",
-      "target": "NPU"
-    },
-    {
-      "source": "SLM",
-      "target": "ESP32"
-    },
-    {
-      "source": "SLM",
-      "target": "Jetson Nano"
-    },
-    {
-      "source": "SLM",
-      "target": "Quantisation"
-    },
-    {
-      "source": "SLM",
-      "target": "Distillation"
-    },
-    {
-      "source": "SLM",
-      "target": "Ollama"
-    },
-    {
-      "source": "SLM",
-      "target": "LLM"
-    },
-    {
-      "source": "SSM",
-      "target": "Transformer"
-    },
-    {
-      "source": "SSM",
-      "target": "Transformer"
-    },
-    {
-      "source": "SSM",
-      "target": "Attention"
-    },
-    {
-      "source": "SSM",
-      "target": "Context Window"
     },
     {
       "source": "Synthetic Data",
@@ -7354,174 +7777,6 @@
       "target": "Devstral (Mistral)"
     },
     {
-      "source": "index",
-      "target": "GPU"
-    },
-    {
-      "source": "index",
-      "target": "Scaling Laws"
-    },
-    {
-      "source": "index",
-      "target": "QLoRA"
-    },
-    {
-      "source": "index",
-      "target": "Multi-Agent Systems"
-    },
-    {
-      "source": "index",
-      "target": "AutoGen"
-    },
-    {
-      "source": "index",
-      "target": "Test-Time Compute"
-    },
-    {
-      "source": "index",
-      "target": "Gradient Descent"
-    },
-    {
-      "source": "index",
-      "target": "Reinforcement Learning"
-    },
-    {
-      "source": "index",
-      "target": "Open-Source AI"
-    },
-    {
-      "source": "index",
-      "target": "Ollama"
-    },
-    {
-      "source": "index",
-      "target": "LangChain"
-    },
-    {
-      "source": "index",
-      "target": "In-Context Learning"
-    },
-    {
-      "source": "index",
-      "target": "Multi-Head Attention"
-    },
-    {
-      "source": "index",
-      "target": "CUDA"
-    },
-    {
-      "source": "index",
-      "target": "ASI"
-    },
-    {
-      "source": "index",
-      "target": "Study Dashboard"
-    },
-    {
-      "source": "index",
-      "target": "Study Dashboard"
-    },
-    {
-      "source": "index",
-      "target": "MOC - Core Concepts"
-    },
-    {
-      "source": "index",
-      "target": "MOC - Training & Optimisation"
-    },
-    {
-      "source": "index",
-      "target": "MOC - Agents & Autonomy"
-    },
-    {
-      "source": "index",
-      "target": "MOC - Safety & Alignment"
-    },
-    {
-      "source": "index",
-      "target": "MOC - Infrastructure & Deployment"
-    },
-    {
-      "source": "index",
-      "target": "Beginner Path"
-    },
-    {
-      "source": "index",
-      "target": "Intermediate Path"
-    },
-    {
-      "source": "index",
-      "target": "Advanced Path"
-    },
-    {
-      "source": "index",
-      "target": "Business Leaders Path"
-    },
-    {
-      "source": "index",
-      "target": "LLM"
-    },
-    {
-      "source": "index",
-      "target": "Transformer"
-    },
-    {
-      "source": "index",
-      "target": "AI Agent"
-    },
-    {
-      "source": "index",
-      "target": "RAG"
-    },
-    {
-      "source": "index",
-      "target": "Reasoning Model"
-    },
-    {
-      "source": "index",
-      "target": "Scaling Laws"
-    },
-    {
-      "source": "index",
-      "target": "MCP"
-    },
-    {
-      "source": "index",
-      "target": "Open-Source AI"
-    },
-    {
-      "source": "index",
-      "target": "The AI Landscape"
-    },
-    {
-      "source": "index",
-      "target": "Core Concepts Overview"
-    },
-    {
-      "source": "index",
-      "target": "AI Timeline 2012-2026"
-    },
-    {
-      "source": "index",
-      "target": "Frontier Model Comparison"
-    },
-    {
-      "source": "index",
-      "target": "AI Risks and Safety"
-    },
-    {
-      "source": "index",
-      "target": "AI for Business Leaders"
-    },
-    {
-      "source": "index",
-      "target": "Key People Overview"
-    },
-    {
-      "source": "index",
-      "target": "Tools and Platforms Directory"
-    },
-    {
       "source": "Intermediate Path",
       "target": "Transformer"
     },
@@ -7679,11 +7934,23 @@
     },
     {
       "source": "MOC - Agents & Autonomy",
+      "target": "Manus AI"
+    },
+    {
+      "source": "MOC - Agents & Autonomy",
       "target": "Vibe Coding"
     },
     {
       "source": "MOC - Agents & Autonomy",
       "target": "Computer Use"
+    },
+    {
+      "source": "MOC - Agents & Autonomy",
+      "target": "Hermes Agent"
+    },
+    {
+      "source": "MOC - Agents & Autonomy",
+      "target": "Skills"
     },
     {
       "source": "MOC - Agents & Autonomy",
@@ -7800,6 +8067,10 @@
     {
       "source": "MOC - Core Concepts",
       "target": "SLM"
+    },
+    {
+      "source": "MOC - Core Concepts",
+      "target": "Scaling Laws"
     },
     {
       "source": "MOC - Core Concepts",
@@ -7947,6 +8218,10 @@
     },
     {
       "source": "MOC - Safety & Alignment",
+      "target": "Deepfakes"
+    },
+    {
+      "source": "MOC - Safety & Alignment",
       "target": "EU AI Act"
     },
     {
@@ -7976,6 +8251,18 @@
     {
       "source": "MOC - Safety & Alignment",
       "target": "Timnit Gebru"
+    },
+    {
+      "source": "MOC - Safety & Alignment",
+      "target": "Joy Buolamwini"
+    },
+    {
+      "source": "MOC - Safety & Alignment",
+      "target": "Kate Crawford"
+    },
+    {
+      "source": "MOC - Safety & Alignment",
+      "target": "Nick Bostrom"
     },
     {
       "source": "MOC - Training & Optimisation",
@@ -9362,10 +9649,6 @@
       "target": "Elon Musk"
     },
     {
-      "source": "Agentic AI",
-      "target": "AI Agent"
-    },
-    {
       "source": "AI Agent",
       "target": "Guardrails"
     },
@@ -9408,6 +9691,10 @@
     {
       "source": "AI Agent",
       "target": "Memory"
+    },
+    {
+      "source": "Agentic AI",
+      "target": "AI Agent"
     },
     {
       "source": "AnythingLLM",
@@ -10082,30 +10369,6 @@
       "target": "Replit Agent"
     },
     {
-      "source": "Make (formerly Integromat)",
-      "target": "LLM"
-    },
-    {
-      "source": "Make (formerly Integromat)",
-      "target": "AI Agent"
-    },
-    {
-      "source": "Make (formerly Integromat)",
-      "target": "Function Calling"
-    },
-    {
-      "source": "Make (formerly Integromat)",
-      "target": "Zapier AI Central"
-    },
-    {
-      "source": "Make (formerly Integromat)",
-      "target": "n8n"
-    },
-    {
-      "source": "Make (formerly Integromat)",
-      "target": "LLM"
-    },
-    {
       "source": "MCP (Model Context Protocol)",
       "target": "Anthropic"
     },
@@ -10156,6 +10419,30 @@
     {
       "source": "MCP",
       "target": "Function Calling"
+    },
+    {
+      "source": "Make (formerly Integromat)",
+      "target": "LLM"
+    },
+    {
+      "source": "Make (formerly Integromat)",
+      "target": "AI Agent"
+    },
+    {
+      "source": "Make (formerly Integromat)",
+      "target": "Function Calling"
+    },
+    {
+      "source": "Make (formerly Integromat)",
+      "target": "Zapier AI Central"
+    },
+    {
+      "source": "Make (formerly Integromat)",
+      "target": "n8n"
+    },
+    {
+      "source": "Make (formerly Integromat)",
+      "target": "LLM"
     },
     {
       "source": "Memory",
@@ -10318,40 +10605,28 @@
       "target": "Gemini (Google)"
     },
     {
-      "source": "n8n",
-      "target": "AI Agent"
+      "source": "NVIDIA Vera CPU",
+      "target": "NVIDIA"
     },
     {
-      "source": "n8n",
-      "target": "Agentic AI"
+      "source": "NVIDIA Vera CPU",
+      "target": "NVIDIA"
     },
     {
-      "source": "n8n",
-      "target": "AI Agent"
+      "source": "NVIDIA Vera CPU",
+      "target": "Jensen Huang"
     },
     {
-      "source": "n8n",
-      "target": "Agentic AI"
+      "source": "NVIDIA Vera CPU",
+      "target": "GPU"
     },
     {
-      "source": "n8n",
-      "target": "Function Calling"
+      "source": "NVIDIA Vera CPU",
+      "target": "CUDA"
     },
     {
-      "source": "n8n",
-      "target": "Zapier AI Central"
-    },
-    {
-      "source": "n8n",
-      "target": "Make (formerly Integromat)"
-    },
-    {
-      "source": "n8n",
-      "target": "LLM"
-    },
-    {
-      "source": "n8n",
-      "target": "MCP"
+      "source": "NVIDIA Vera CPU",
+      "target": "ASIC"
     },
     {
       "source": "NotebookLM",
@@ -10404,30 +10679,6 @@
     {
       "source": "Notion AI",
       "target": "AI Agent"
-    },
-    {
-      "source": "NVIDIA Vera CPU",
-      "target": "NVIDIA"
-    },
-    {
-      "source": "NVIDIA Vera CPU",
-      "target": "NVIDIA"
-    },
-    {
-      "source": "NVIDIA Vera CPU",
-      "target": "Jensen Huang"
-    },
-    {
-      "source": "NVIDIA Vera CPU",
-      "target": "GPU"
-    },
-    {
-      "source": "NVIDIA Vera CPU",
-      "target": "CUDA"
-    },
-    {
-      "source": "NVIDIA Vera CPU",
-      "target": "ASIC"
     },
     {
       "source": "Perplexity AI",
@@ -10532,10 +10783,6 @@
     {
       "source": "Skills",
       "target": "Function Calling"
-    },
-    {
-      "source": "Skills",
-      "target": "Skill File"
     },
     {
       "source": "Snyk _ DeepCode",
@@ -10668,6 +10915,42 @@
     {
       "source": "Zapier AI Central",
       "target": "LLM"
+    },
+    {
+      "source": "n8n",
+      "target": "AI Agent"
+    },
+    {
+      "source": "n8n",
+      "target": "Agentic AI"
+    },
+    {
+      "source": "n8n",
+      "target": "AI Agent"
+    },
+    {
+      "source": "n8n",
+      "target": "Agentic AI"
+    },
+    {
+      "source": "n8n",
+      "target": "Function Calling"
+    },
+    {
+      "source": "n8n",
+      "target": "Zapier AI Central"
+    },
+    {
+      "source": "n8n",
+      "target": "Make (formerly Integromat)"
+    },
+    {
+      "source": "n8n",
+      "target": "LLM"
+    },
+    {
+      "source": "n8n",
+      "target": "MCP"
     },
     {
       "source": "_Index",
@@ -10835,6 +11118,174 @@
     },
     {
       "source": "_Index",
+      "target": "Tools and Platforms Directory"
+    },
+    {
+      "source": "index",
+      "target": "GPU"
+    },
+    {
+      "source": "index",
+      "target": "Scaling Laws"
+    },
+    {
+      "source": "index",
+      "target": "QLoRA"
+    },
+    {
+      "source": "index",
+      "target": "Multi-Agent Systems"
+    },
+    {
+      "source": "index",
+      "target": "AutoGen"
+    },
+    {
+      "source": "index",
+      "target": "Test-Time Compute"
+    },
+    {
+      "source": "index",
+      "target": "Gradient Descent"
+    },
+    {
+      "source": "index",
+      "target": "Reinforcement Learning"
+    },
+    {
+      "source": "index",
+      "target": "Open-Source AI"
+    },
+    {
+      "source": "index",
+      "target": "Ollama"
+    },
+    {
+      "source": "index",
+      "target": "LangChain"
+    },
+    {
+      "source": "index",
+      "target": "In-Context Learning"
+    },
+    {
+      "source": "index",
+      "target": "Multi-Head Attention"
+    },
+    {
+      "source": "index",
+      "target": "CUDA"
+    },
+    {
+      "source": "index",
+      "target": "ASI"
+    },
+    {
+      "source": "index",
+      "target": "Study Dashboard"
+    },
+    {
+      "source": "index",
+      "target": "Study Dashboard"
+    },
+    {
+      "source": "index",
+      "target": "MOC - Core Concepts"
+    },
+    {
+      "source": "index",
+      "target": "MOC - Training & Optimisation"
+    },
+    {
+      "source": "index",
+      "target": "MOC - Agents & Autonomy"
+    },
+    {
+      "source": "index",
+      "target": "MOC - Safety & Alignment"
+    },
+    {
+      "source": "index",
+      "target": "MOC - Infrastructure & Deployment"
+    },
+    {
+      "source": "index",
+      "target": "Beginner Path"
+    },
+    {
+      "source": "index",
+      "target": "Intermediate Path"
+    },
+    {
+      "source": "index",
+      "target": "Advanced Path"
+    },
+    {
+      "source": "index",
+      "target": "Business Leaders Path"
+    },
+    {
+      "source": "index",
+      "target": "LLM"
+    },
+    {
+      "source": "index",
+      "target": "Transformer"
+    },
+    {
+      "source": "index",
+      "target": "AI Agent"
+    },
+    {
+      "source": "index",
+      "target": "RAG"
+    },
+    {
+      "source": "index",
+      "target": "Reasoning Model"
+    },
+    {
+      "source": "index",
+      "target": "Scaling Laws"
+    },
+    {
+      "source": "index",
+      "target": "MCP"
+    },
+    {
+      "source": "index",
+      "target": "Open-Source AI"
+    },
+    {
+      "source": "index",
+      "target": "The AI Landscape"
+    },
+    {
+      "source": "index",
+      "target": "Core Concepts Overview"
+    },
+    {
+      "source": "index",
+      "target": "AI Timeline 2012-2026"
+    },
+    {
+      "source": "index",
+      "target": "Frontier Model Comparison"
+    },
+    {
+      "source": "index",
+      "target": "AI Risks and Safety"
+    },
+    {
+      "source": "index",
+      "target": "AI for Business Leaders"
+    },
+    {
+      "source": "index",
+      "target": "Key People Overview"
+    },
+    {
+      "source": "index",
       "target": "Tools and Platforms Directory"
     }
   ]

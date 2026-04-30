@@ -1,16 +1,46 @@
-# React + Vite
+# Aura OS (AI Knowledge Graph Explorer)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aura OS is the interactive React app for browsing this vault as a visual graph and reading notes in-context.
 
-Currently, two official plugins are available:
+## Prerequisites
+- Node.js 18+
+- Root manifest generated via `scripts/aura-indexer.js`
+- Local vault API server via `scripts/aura-server.js`
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Local Development
+From repository root:
 
-## React Compiler
+1. Generate/update graph data manifest:
+   ```bash
+   node scripts/aura-indexer.js
+   ```
+2. Start the local vault API server:
+   ```bash
+   node scripts/aura-server.js
+   ```
+3. In another terminal, run the Aura UI:
+   ```bash
+   cd aura-os
+   npm install
+   npm run dev
+   ```
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Environment Variables
+Create `aura-os/.env.local` as needed:
 
-## Expanding the ESLint configuration
+```bash
+VITE_API_BASE_URL=http://localhost:3002
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+If omitted, Aura defaults to `http://localhost:3002`.
+
+## Build
+```bash
+cd aura-os
+npm run build
+```
+
+## Architecture Notes
+- Graph node/link data comes from `data/aura-manifest.json`.
+- Markdown content is fetched from `GET /vault/<path>` on the local API server.
+- Doc rendering uses `react-markdown`.

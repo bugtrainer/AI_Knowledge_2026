@@ -6,26 +6,30 @@ import { motion, AnimatePresence } from 'framer-motion';
 const DocViewer = ({ node, onClose }) => {
   const [content, setContent] = useState('');
   const [loading, setLoading] = useState(true);
+  const apiBaseUrl = import.meta.env.VITE_API_BASE_URL || 'http://localhost:3002';
 
   useEffect(() => {
     const fetchDoc = async () => {
       if (!node) return;
       setLoading(true);
       try {
-        const response = await fetch(`http://localhost:3002/vault/${node.path}`);
+        const response = await fetch(`${apiBaseUrl}/vault/${node.path}`);
+        if (!response.ok) {
+          throw new Error(`Request failed with ${response.status}`);
+        }
         const text = await response.text();
         // Remove YAML frontmatter for display
         const cleanText = text.replace(/^---[\s\S]*?---\n/, '');
         setContent(cleanText);
       } catch (err) {
-        setContent('# Error loading file\nCould not fetch content from local server.');
+        setContent('# Error loading file\nCould not fetch content from configured server.');
       } finally {
         setLoading(false);
       }
     };
 
     fetchDoc();
-  }, [node]);
+  }, [node, apiBaseUrl]);
 
   if (!node) return null;
 

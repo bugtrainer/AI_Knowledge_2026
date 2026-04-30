@@ -6,6 +6,8 @@ created: 2026-04-17
 updated: 2026-04-17
 ---
 
+!["Attention Mechanism"](../Assets/Images/concept_transformer.png)
+
 ## Definition
 The **Attention Mechanism** allows a model to dynamically focus on the most relevant parts of the input when generating each output token. It is the core innovation inside the [[Transformer]] architecture.
 
@@ -32,3 +34,4 @@ Example: In "The cat sat on the mat because **it** was tired" — the attention 
 
 ## Video Resources
 - [Hot Swapping AI Skills: Attention Mechanisms & ALoRA Explained](https://www.youtube.com/watch?v=qmUWsFCnsz4)
+

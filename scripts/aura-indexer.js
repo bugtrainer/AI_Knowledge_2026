@@ -10,17 +10,10 @@ function parseFile(filePath) {
     const content = fs.readFileSync(filePath, 'utf-8');
     const fileName = path.basename(filePath, '.md');
     
-    // Simple YAML parser
     let metadata = {};
     const yamlMatch = content.match(/^---\n([\s\S]*?)\n---/);
     if (yamlMatch) {
-        const yamlLines = yamlMatch[1].split('\n');
-        yamlLines.forEach(line => {
-            const [key, ...valueParts] = line.split(':');
-            if (key && valueParts.length > 0) {
-                metadata[key.trim()] = valueParts.join(':').trim().replace(/^\[|\]$/g, '');
-            }
-        });
+        metadata = parseFrontmatter(yamlMatch[1]);
     }
 
     // Extract WikiLinks [[Link]] or [[Link|Alias]]
@@ -35,7 +28,11 @@ function parseFile(filePath) {
         id: fileName,
         path: path.relative(VAULT_PATH, filePath),
         title: metadata.title || fileName,
-        tags: metadata.tags ? metadata.tags.split(',').map(t => t.trim()) : [],
+        tags: Array.isArray(metadata.tags)
+            ? metadata.tags.map(t => String(t).trim())
+            : typeof metadata.tags === 'string'
+                ? metadata.tags.split(',').map(t => t.trim())
+                : [],
         difficulty: metadata.difficulty || 'unknown',
         status: metadata.status || 'seed',
         links: links
@@ -106,3 +103,29 @@ const manifest = {
 fs.writeFileSync(OUTPUT_PATH, JSON.stringify(manifest, null, 2));
 console.log(`✅ Aura Manifest generated at ${OUTPUT_PATH}`);
 console.log(`📊 Nodes: ${nodes.length}, Links: ${validEdges.length}`);
+function parseFrontmatter(yamlText) {
+    const metadata = {};
+    const lines = yamlText.split('\n');
+    for (const line of lines) {
+        if (!line.trim() || line.trim().startsWith('#')) continue;
+        const idx = line.indexOf(':');
+        if (idx === -1) continue;
+        const key = line.slice(0, idx).trim();
+        let rawValue = line.slice(idx + 1).trim();
+        if (!key) continue;
+
+        if ((rawValue.startsWith('"') && rawValue.endsWith('"')) || (rawValue.startsWith("'") && rawValue.endsWith("'"))) {
+            rawValue = rawValue.slice(1, -1);
+        }
+        if (rawValue.startsWith('[') && rawValue.endsWith(']')) {
+            metadata[key] = rawValue
+                .slice(1, -1)
+                .split(',')
+                .map(item => item.trim().replace(/^['"]|['"]$/g, ''))
+                .filter(Boolean);
+            continue;
+        }
+        metadata[key] = rawValue;
+    }
+    return metadata;
+}

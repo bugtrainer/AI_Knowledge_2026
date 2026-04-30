@@ -40,3 +40,12 @@ The most widely adopted framework for building [[LLM]] applications and [[AI Age
 ## Learn More
 - [YouTube: LangChain Tutorial](https://www.youtube.com/results?search_query=LangChain+tutorial+explained)
 - [LangChain Official](https://langchain.com/)
+
+
+## Video Resources
+- [Prompt Engineering for LLMs, PDL, & LangChain in Action](https://www.youtube.com/watch?v=cgVppD6paYo)
+- [LangChain RAG: Optimizing AI Models for Accurate Responses](https://www.youtube.com/watch?v=cDn7bf84LsM)
+- [LangChain vs LangGraph: A Tale of Two Frameworks](https://www.youtube.com/watch?v=qAF1NjEVHhY)
+- [Create Advanced AI Agents with LangChain and RAG Techniques](https://www.youtube.com/watch?v=Y1PaM3edYoI)
+- [Build AI Function Calling with LangChain & Advanced AI Models](https://www.youtube.com/watch?v=cjCYcTPryw8)
+- [What is LangChain?](https://www.youtube.com/watch?v=1bUy-1hGZpI)

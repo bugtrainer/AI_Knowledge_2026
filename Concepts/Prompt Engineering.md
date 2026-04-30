@@ -35,3 +35,9 @@ updated: 2026-04-17
 ## Learn More
 - [YouTube: Prompt Engineering Course](https://www.youtube.com/results?search_query=Prompt+Engineering+course+2024)
 - [Wikipedia](https://en.wikipedia.org/wiki/Prompt_engineering)
+
+## Video Resources
+- [How to Use Agentic AI: LLMs, AI Agents & Prompt Engineering in Action](https://www.youtube.com/watch?v=bwvfdFWR1RI)
+- [Context Engineering vs. Prompt Engineering: Smarter AI with RAG & Agents](https://www.youtube.com/watch?v=vD0E3EUb8-8)
+- [NEO 1X Robot, OpenAI chips, The AI Scientist, and the future of prompt engineering](https://www.youtube.com/watch?v=iSJenVM7KnQ)
+- [4 Methods of Prompt Engineering](https://www.youtube.com/watch?v=1c9iyoVIwDs)

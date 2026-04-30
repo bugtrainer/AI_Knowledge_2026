@@ -34,3 +34,6 @@ Reasoning models represent a **paradigm shift** in AI capabilities:
 ## Learn More
 - [YouTube: OpenAI o1 Reasoning](https://www.youtube.com/results?search_query=OpenAI+o1+Reasoning+Model+explained)
 - [OpenAI: o1 System Card](https://openai.com/index/openai-o1-system-card/)
+
+## Video Resources
+- [Gen AI pilots fail, GPT-5's hidden prompt revealed, reasoning model flaws and Claude closing chats](https://www.youtube.com/watch?v=UKVSCFrWrpA)

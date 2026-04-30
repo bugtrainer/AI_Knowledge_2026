@@ -36,3 +36,6 @@ A **Neural Network** is a computing system inspired by the structure of the huma
 ## Learn More
 - [YouTube: Neural Networks — 3Blue1Brown](https://www.youtube.com/results?search_query=Neural+Networks+3Blue1Brown)
 - [Wikipedia](https://en.wikipedia.org/wiki/Artificial_neural_network)
+
+## Video Resources
+- [Inside a Neuron: The Building Blocks of a Neural Network & AI](https://www.youtube.com/watch?v=H_jD5xa1nRg)

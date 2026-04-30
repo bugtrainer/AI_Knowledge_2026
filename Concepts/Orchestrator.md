@@ -24,3 +24,7 @@ An **Orchestrator** is a controller that coordinates and delegates work to multi
 
 ## Learn More
 - [YouTube: Multi-Agent Orchestration](https://www.youtube.com/results?search_query=AI+Agent+Orchestration+multi-agent)
+
+## Video Resources
+- [Orchestrator Agents & MCP: How AI Agents Drive Automation](https://www.youtube.com/watch?v=Ons1Fv3IE4U)
+- [What Are Orchestrator Agents? AI Tools Working Smarter Together](https://www.youtube.com/watch?v=X3XJeTApVMM)

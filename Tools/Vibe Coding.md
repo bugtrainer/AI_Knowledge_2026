@@ -14,3 +14,7 @@ Writing complex applications purely by describing what you want in plain English
 
 ## Related Concepts
 - [[AI Agent]]
+
+
+## Video Resources
+- [What Is Vibe Coding? Building Software with Agentic AI](https://www.youtube.com/watch?v=Y68FF_nUSWE&pp=0gcJCd8KAYcqIYzv)

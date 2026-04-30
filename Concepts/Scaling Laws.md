@@ -39,3 +39,8 @@ Empirical power-law relationships discovered by Kaplan et al. (2020) and Hoffman
 ## Learn More
 - [YouTube: Scaling Laws Explained](https://www.youtube.com/results?search_query=LLM+scaling+laws+explained)
 - [Paper: Chinchilla (Hoffmann et al.)](https://arxiv.org/abs/2203.15556)
+
+
+## Video Resources
+- [Manus, vibe coding, scaling laws and Perplexity’s AI phone](https://www.youtube.com/watch?v=Ddh3p185KhA)
+- [Google’s AI Overviews, Golden Gate Claude, the "whale computer" and scaling laws](https://www.youtube.com/watch?v=VMmIdX9Zmuw)

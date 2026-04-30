@@ -42,3 +42,9 @@ AI-generated synthetic media — fake videos, images, or audio that convincingly
 ## Learn More
 - [YouTube: Deepfakes Explained](https://www.youtube.com/results?search_query=Deepfakes+AI+explained)
 - [Wikipedia: Deepfake](https://en.wikipedia.org/wiki/Deepfake)
+
+
+## Video Resources
+- [Cybersecurity Trends in 2026: Shadow AI, Quantum & Deepfakes](https://www.youtube.com/watch?v=2jU-mLMV8Vw)
+- [Biometrics & Security: Privacy, Deepfakes, & Cyber Threats](https://www.youtube.com/watch?v=fetX12f3Z-I)
+- [IBM Tech Now: IBM X-Force Cyber Range and the quest to combat deepfakes](https://www.youtube.com/watch?v=pj_0Z-Mzbng)

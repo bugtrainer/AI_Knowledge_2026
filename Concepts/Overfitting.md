@@ -38,3 +38,7 @@ When a model **memorises** training data rather than learning generalizable patt
 ## Learn More
 - [YouTube: Overfitting Explained](https://www.youtube.com/results?search_query=Machine+Learning+Overfitting)
 - [Wikipedia: Overfitting](https://en.wikipedia.org/wiki/Overfitting)
+
+
+## Video Resources
+- [Overfitting, Underfitting, and Bad Data Are Ruining Your Predictive Models](https://www.youtube.com/watch?v=0RT2Q0qwXSA)

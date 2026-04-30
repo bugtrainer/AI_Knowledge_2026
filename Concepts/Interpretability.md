@@ -26,3 +26,7 @@ updated: 2026-04-17
 ## Learn More
 - [YouTube: Interpretability](https://www.youtube.com/results?search_query=Mechanistic+Interpretability+AI)
 - [Anthropic Interpretability Research](https://www.anthropic.com/research#interpretability)
+
+## Video Resources
+- [OpenAI goes open, Anthropic on interpretability, Apple Intelligence updates and Amazon AI agents](https://www.youtube.com/watch?v=x0DQfLQHT0Q&pp=0gcJCd8KAYcqIYzv)
+- [Apple's WWDC24 reactions and mechanistic interpretability](https://www.youtube.com/watch?v=_bCsW_Jrcts)

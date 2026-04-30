@@ -33,3 +33,7 @@ A **Vector Database** stores data as high-dimensional vectors ([[Embedding]]s) a
 ## Learn More
 - [YouTube: Vector Databases](https://www.youtube.com/results?search_query=Vector+Database+explained+AI)
 - [Pinecone](https://www.pinecone.io/)
+
+## Video Resources
+- [What is a Vector Database? Powering Semantic Search & AI Applications](https://www.youtube.com/watch?v=gl1r1XV0SLw)
+- [What is a Vector Database?](https://www.youtube.com/watch?v=t9IDoenf-lo)

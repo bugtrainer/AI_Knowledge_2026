@@ -35,3 +35,7 @@ updated: 2026-04-17
 ## Learn More
 - [YouTube: NotebookLM](https://www.youtube.com/results?search_query=NotebookLM+Google+tutorial+2025)
 - [NotebookLM](https://notebooklm.google.com)
+
+## Video Resources
+- [Anthropic valuation rumors, Microsoft CoreAI, NotebookLM upgrades, and AI agents in finance](https://www.youtube.com/watch?v=NcV5GrG5VTA)
+- [NotebookLM, OpenAI DevDay, and will AI prevent phishing attacks?](https://www.youtube.com/watch?v=GFQv0r9OGU0)

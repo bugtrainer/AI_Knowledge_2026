@@ -28,3 +28,6 @@ A master chef (teacher) trains an apprentice (student) by demonstrating techniqu
 
 ## Learn More
 - [YouTube: Knowledge Distillation](https://www.youtube.com/results?search_query=Knowledge+Distillation+AI+explained)
+
+## Video Resources
+- [DeepSeek facts vs hype, model distillation, and open source competition](https://www.youtube.com/watch?v=jC0MGFDawWg)

@@ -24,3 +24,6 @@ All frontier models in 2026 are multimodal:
 ## Learn More
 - [YouTube: Multimodal AI](https://www.youtube.com/results?search_query=Multimodal+AI+explained)
 - [Wikipedia](https://en.wikipedia.org/wiki/Multimodal_learning)
+
+## Video Resources
+- [What is Multimodal AI? How LLMs Process Text, Images, and More](https://www.youtube.com/watch?v=J51oZYcNvP8&t=16s)

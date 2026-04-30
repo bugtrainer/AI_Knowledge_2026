@@ -1,9 +1,13 @@
 #!/bin/bash
 echo "Starting Custom Vercel Build for Quartz..."
+set -euo pipefail
+
+QUARTZ_REPO="https://github.com/jackyzha0/quartz.git"
+QUARTZ_REF="v4.5.2"
 
 # 1. Download Quartz into a temporary folder
 rm -rf quartz-site
-git clone https://github.com/jackyzha0/quartz.git quartz-site
+git clone --depth 1 --branch "$QUARTZ_REF" "$QUARTZ_REPO" quartz-site
 cd quartz-site
 
 # 2. Install Quartz dependencies

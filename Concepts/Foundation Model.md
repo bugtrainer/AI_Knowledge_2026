@@ -23,3 +23,6 @@ A **Foundation Model** is a large [[Pre-Training|pre-trained]] AI model that is 
 ## Learn More
 - [YouTube: Foundation Models](https://www.youtube.com/results?search_query=Foundation+Models+explained)
 - [Wikipedia](https://en.wikipedia.org/wiki/Foundation_model)
+
+## Video Resources
+- [How to Pick the Right AI Foundation Model](https://www.youtube.com/watch?v=pePAAGfh-IU)

@@ -27,3 +27,6 @@ updated: 2026-04-17
 ## Learn More
 - [YouTube: Temperature](https://www.youtube.com/results?search_query=LLM+Temperature+parameter+explained)
 - [OpenAI Docs](https://platform.openai.com/docs/api-reference/chat/create)
+
+## Video Resources
+- [IBM Cloud Now: Elevated Body Temperature Monitoring at the Edge, IBM Cloud Code Engine, and More](https://www.youtube.com/watch?v=mr2xUDNzb6Y)

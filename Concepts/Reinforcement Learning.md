@@ -41,3 +41,7 @@ A learning paradigm where an agent learns to maximise a reward signal by taking 
 ## Learn More
 - [YouTube: Reinforcement Learning Explained](https://www.youtube.com/results?search_query=Reinforcement+Learning+explained)
 - [Wikipedia: Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
+
+
+## Video Resources
+- [Reinforcement Learning from Human Feedback (RLHF) Explained](https://www.youtube.com/watch?v=T_X4XFwKX8k)

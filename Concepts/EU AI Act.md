@@ -35,3 +35,6 @@ The **EU AI Act** is the world's first comprehensive AI regulation. It establish
 ## Learn More
 - [YouTube: EU AI Act](https://www.youtube.com/results?search_query=EU+AI+Act+summary+2025)
 - [Official Site](https://artificialintelligenceact.eu/)
+
+## Video Resources
+- [IBM Tech Now: Llama 3.1, the EU AI Act and an IBM Cloud VPC sandbox](https://www.youtube.com/watch?v=qXxFLf7oz98)

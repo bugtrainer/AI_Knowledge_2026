@@ -41,3 +41,14 @@ The infrastructure backbone of the entire AI industry. NVIDIA's [[GPU]]s (A100, 
 ## Links
 - [Official Website](https://nvidia.com)
 - [NVIDIA AI](https://nvidia.com/en-us/ai/)
+
+
+## Video Resources
+- [CES 2026 AI highlights: NVIDIA Rubin & wild gadgets](https://www.youtube.com/watch?v=5gRCyXOYF74)
+- [NVIDIA’s USD 100bn investment and Google's AP2](https://www.youtube.com/watch?v=h1YqbXQN5N8&pp=0gcJCd8KAYcqIYzv)
+- [o3 and o4-mini, Google Gemini on-prem and NVIDIA’s U.S. chip manufacturing](https://www.youtube.com/watch?v=8e6StFBP0VM)
+- [NVIDIA GTC, Baidu reasoning models and Gemini AI image generation](https://www.youtube.com/watch?v=TsDdk7xHhMY)
+- [CES 2025, NVIDIA DIGITS, Apple Intelligence fails, and Sam Altman’s reflections](https://www.youtube.com/watch?v=KwGg5WhxuFY)
+- [Granite 3.0, NVIDIA’s Nemotron AI model, and Perplexity’s fundraising](https://www.youtube.com/watch?v=5-xMSQZ9xx0&pp=0gcJCd8KAYcqIYzv)
+- [NVIDIA’s Nemotron-4 340B models, Safe Superintelligence Inc. and AI agents](https://www.youtube.com/watch?v=G8lnNR1-rsw)
+- [Accelerate AI and HPC workloads with NVIDIA GPUs on IBM Cloud](https://www.youtube.com/watch?v=CTURiR6PU2I)

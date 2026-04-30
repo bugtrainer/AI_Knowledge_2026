@@ -31,3 +31,6 @@ Led by [[Yoshua Bengio]], backed by **30+ countries**. The most comprehensive gl
 ## Learn More
 - [YouTube: AI Safety](https://www.youtube.com/results?search_query=AI+Safety+explained+2025)
 - [Wikipedia](https://en.wikipedia.org/wiki/AI_safety)
+
+## Video Resources
+- [AI safety, RAG benchmarking and responsible AI at ACM FAccT Conference](https://www.youtube.com/watch?v=0sA6X6n3goc)

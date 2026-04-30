@@ -40,3 +40,13 @@ updated: 2026-04-18
 ## Learn More
 - [Llama Official](https://llama.meta.com)
 - [YouTube: Llama Explained](https://www.youtube.com/results?search_query=Meta+Llama+AI+explained)
+
+
+## Video Resources
+- [AI on IBM z17, Meta's Llama 4 and Google Cloud Next 2025](https://www.youtube.com/watch?v=90fUR1PQgt4)
+- [Time Series Forecasting with Lag Llama](https://www.youtube.com/watch?v=MOOPuizuf6o)
+- [12 Days of OpenAI, NeurIPS, ARC Prize, and Llama 3.3 70B](https://www.youtube.com/watch?v=UVMndg9WX9g)
+- [Llama in Action: Conversational AI, Language Generation, and More!](https://www.youtube.com/watch?v=ucGfGWo_duE)
+- [Llama: The Open-Weight AI Model that's Changing How We Think About AI](https://www.youtube.com/watch?v=8c2LnKNoSmg)
+- [Llama 3.2, AI Snake Oil, and gen AI for sustainability](https://www.youtube.com/watch?v=FnO6TD9LtPY)
+- [Meta's Llama 3.1, Mistral Large 2 and big interest in small models](https://www.youtube.com/watch?v=bQzPaRYC9BE)

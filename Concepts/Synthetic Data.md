@@ -24,3 +24,9 @@ updated: 2026-04-17
 ## Learn More
 - [YouTube: Synthetic Data](https://www.youtube.com/results?search_query=Synthetic+Data+AI+explained)
 - [Wikipedia](https://en.wikipedia.org/wiki/Synthetic_data)
+
+## Video Resources
+- [Synthetic Data Generation for Smarter AI Workflows](https://www.youtube.com/watch?v=4L-CB0lMq_I)
+- [LLM + Data: Building AI with Real & Synthetic Data](https://www.youtube.com/watch?v=DOhvtcjl1ac)
+- [Can you trust synthetic data?](https://www.youtube.com/watch?v=QQtSa9ngqQk)
+- [What is Synthetic Data? No, It's Not "Fake" Data](https://www.youtube.com/watch?v=HIusawrGBN4)

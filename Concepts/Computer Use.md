@@ -24,3 +24,6 @@ updated: 2026-04-17
 
 ## Learn More
 - [YouTube: AI Computer Use](https://www.youtube.com/results?search_query=Claude+Computer+Use+demo)
+
+## Video Resources
+- [The future of agents, AI energy consumption, Anthropic's computer use, and Google watermarking AI](https://www.youtube.com/watch?v=HYHgJkWnPdQ)

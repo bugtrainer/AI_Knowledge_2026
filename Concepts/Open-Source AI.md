@@ -40,3 +40,7 @@ AI models released with **open weights** — downloadable and self-hostable by a
 ## Learn More
 - [YouTube: Open Source AI Explained](https://www.youtube.com/results?search_query=Open+Source+AI+models+explained)
 - [Hugging Face Hub](https://huggingface.co/)
+
+
+## Video Resources
+- [Apple Intelligence, Reflection 70B, open-source AI agents, and LLM research ideas](https://www.youtube.com/watch?v=j9vTEhimRqk&pp=0gcJCd8KAYcqIYzv)

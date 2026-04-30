@@ -38,3 +38,7 @@ The universal optimisation algorithm used to train all neural networks. It itera
 ## Learn More
 - [YouTube: Gradient Descent Explained](https://www.youtube.com/results?search_query=Gradient+Descent+explained+3Blue1Brown)
 - [Wikipedia: Gradient Descent](https://en.wikipedia.org/wiki/Gradient_descent)
+
+
+## Video Resources
+- [Gradient Descent Explained](https://www.youtube.com/watch?v=i62czvwDlsw)

@@ -34,3 +34,7 @@ AI researchers, developers, and hobbyists who want to use, share, or deploy open
 ## Learn More
 - [Hugging Face](https://huggingface.co)
 - [YouTube: Hugging Face Tutorial](https://www.youtube.com/results?search_query=Hugging+Face+tutorial)
+
+
+## Video Resources
+- [Hugging Face and watsonx: why open source is the future of AI in business](https://www.youtube.com/watch?v=THEQbJIAxvE)

@@ -34,3 +34,6 @@ The **Context Window** is the maximum amount of text (measured in [[Token]]s) th
 ## Learn More
 - [YouTube: Context Windows](https://www.youtube.com/results?search_query=Context+Window+LLM+explained)
 - [Anthropic: Long Context](https://www.anthropic.com/news/100k-context-windows)
+
+## Video Resources
+- [What is a Context Window? Unlocking LLM Secrets](https://www.youtube.com/watch?v=-QVoIxEpFkM&pp=0gcJCd8KAYcqIYzv)

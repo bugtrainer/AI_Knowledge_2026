@@ -38,3 +38,13 @@ Chinese AI lab that shocked the world by producing frontier-quality models at a 
 ## Links
 - [DeepSeek](https://deepseek.com)
 - [DeepSeek Chat](https://chat.deepseek.com)
+
+
+## Video Resources
+- [AI model analysis: Mistral 3, DeepSeek-V3.2 & Claude Opus 4.5](https://www.youtube.com/watch?v=_lZgapJzFho&pp=0gcJCd8KAYcqIYzv)
+- [Kimi K2, DeepSeek-R1 vibe check and Google’s data center investments](https://www.youtube.com/watch?v=hNvbeXus-pM)
+- [LlamaCon, Qwen3, DeepSeek-R2 rumors and JP Morgan’s open letter on AI](https://www.youtube.com/watch?v=yeutlpU13YM)
+- [DeepSeek-V3-0324, Gemini Canvas and GPT-4o image generation](https://www.youtube.com/watch?v=CgqHN38l6Ko)
+- [What is DeepSeek? AI Model Basics Explained](https://www.youtube.com/watch?v=KTonvXhsxpc)
+- [DeepSeek-R1, Mistral IPO, FrontierMath controversy, and IDC code assistant report](https://www.youtube.com/watch?v=86rz0mV3jZE)
+- [OpenAI o3, DeepSeek-V3, and the Brundage/Marcus AI bet](https://www.youtube.com/watch?v=QzERUfTbKQw)

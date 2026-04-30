@@ -40,3 +40,8 @@ The platform king of AI. Made the decisive $13B investment in [[OpenAI]] and emb
 ## Links
 - [Microsoft AI](https://microsoft.com/ai)
 - [Azure AI](https://azure.microsoft.com/en-us/solutions/ai/)
+
+
+## Video Resources
+- [IBM Z and Microsoft Cloud - Better Together](https://www.youtube.com/watch?v=OqgR_gqBZaA)
+- [IBM Tech Now: Data Security Broker, IBM Db2 Warehouse and Microsoft 365 Backup as a Service](https://www.youtube.com/watch?v=G-QPtc7JjmU)

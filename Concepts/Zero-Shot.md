@@ -37,3 +37,7 @@ Asking a model to perform a task with **no examples** in the prompt — relying 
 ## Learn More
 - [YouTube: Zero-Shot Learning](https://www.youtube.com/results?search_query=Zero+shot+learning)
 - [Wikipedia: Zero-Shot Learning](https://en.wikipedia.org/wiki/Zero-shot_learning)
+
+
+## Video Resources
+- [What is Zero-Shot Learning?](https://www.youtube.com/watch?v=pVpr4GYLzAo)

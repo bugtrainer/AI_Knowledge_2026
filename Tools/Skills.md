@@ -14,3 +14,10 @@ Specific programmatic functions or API tools programmed into an Agent (e.g., Pyt
 
 ## Related Concepts
 - [[Function Calling]]
+
+
+## Video Resources
+- [The 7 Skills You Need to Build AI Agents](https://www.youtube.com/watch?v=mtiOK2QG9Q0&pp=0gcJCd8KAYcqIYzv)
+- [Build AI Skills and Stay Relevant in the AI Economy](https://www.youtube.com/watch?v=x1hyuvUUR0w)
+- [How to Become an Ethical Hacker: Skills, Certifications, & Advice](https://www.youtube.com/watch?v=wLgdhrZMGKE)
+- [What Is Ethical Hacking? Roles, Skills, and Cybersecurity](https://www.youtube.com/watch?v=WYkbKzDfgqo)

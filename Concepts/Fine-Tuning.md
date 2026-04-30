@@ -32,3 +32,8 @@ Pre-training is like getting a university degree in "everything". Fine-tuning is
 ## Learn More
 - [YouTube: Fine-tuning LLMs](https://www.youtube.com/results?search_query=Fine+tuning+LLMs+explained)
 - [Wikipedia](https://en.wikipedia.org/wiki/Fine-tuning_%28deep_learning%29)
+
+## Video Resources
+- [Speech to Text: Fine-Tuning Generative AI for Smarter Conversational AI](https://www.youtube.com/watch?v=jEZ159wzSJY)
+- [What is Retrieval-Augmented Fine-Tuning (RAFT)?](https://www.youtube.com/watch?v=rqyczEvh3D4)
+- [RAG vs Fine-Tuning vs Prompt Engineering: Optimizing AI Models](https://www.youtube.com/watch?v=zYGDpG-pTho)

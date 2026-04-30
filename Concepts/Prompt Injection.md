@@ -29,3 +29,9 @@ updated: 2026-04-17
 ## Learn More
 - [YouTube: Prompt Injection](https://www.youtube.com/results?search_query=Prompt+Injection+attacks+explained)
 - [OWASP LLM Top 10](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
+
+## Video Resources
+- [AI Privilege Escalation: Agentic Identity & Prompt Injection Risks](https://www.youtube.com/watch?v=xHJ0_Vm7lK8)
+- [Securing AI Agents: How to Prevent Hidden Prompt Injection Attacks](https://www.youtube.com/watch?v=5ZA1lTxTH3c)
+- [AI Model Penetration: Testing LLMs for Prompt Injection & Jailbreaks](https://www.youtube.com/watch?v=xOQW_qMZdlc&pp=0gcJCd8KAYcqIYzv)
+- [What Is a Prompt Injection Attack?](https://www.youtube.com/watch?v=jrHRe9lSqqA)

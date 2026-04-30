@@ -18,3 +18,7 @@ Running AI models locally on edge devices (phones, laptops) rather than cloud se
 - [[NPU]]
 - [[Jetson Nano]]
 - [[AnythingLLM]]
+
+
+## Video Resources
+- [Edge AI vs. Distributed AI](https://www.youtube.com/watch?v=jevuDDjFEsM&pp=0gcJCd8KAYcqIYzv)

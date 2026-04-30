@@ -35,3 +35,7 @@ Software developers who want AI pair-programming without leaving their editor. F
 ## Learn More
 - [Cursor](https://cursor.com)
 - [YouTube: Cursor Tutorial](https://www.youtube.com/results?search_query=Cursor+AI+editor+tutorial)
+
+
+## Video Resources
+- [Cursor hype, Perplexity introduces ads, and AI at the US Open](https://www.youtube.com/watch?v=IKaj8gATzoY&pp=0gcJCd8KAYcqIYzv)

@@ -24,3 +24,7 @@ updated: 2026-04-17
 
 ## Learn More
 - [YouTube: LLM Pretraining](https://www.youtube.com/results?search_query=LLM+Pretraining+explained)
+
+## Video Resources
+- [GPT-4.5: And the future of pre-training is...](https://www.youtube.com/watch?v=LQEhOObUhQg)
+- [Granite 3.1, NVIDIA Jetson, stealing AI models, and is pre-training over?](https://www.youtube.com/watch?v=GnMKY4QLHDw)

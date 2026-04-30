@@ -43,3 +43,16 @@ Anthropic represents the "safety-maximalist" approach to frontier AI: build the 
 ## Links
 - [Official Website](https://anthropic.com)
 - [Claude.ai](https://claude.ai)
+
+
+## Video Resources
+- [Anthropic Claude Opus 4.6 vs OpenAI GPT-5.3-Codex: The AI "big game”](https://www.youtube.com/watch?v=C6PZwrsaii0)
+- [Anthropic stops AI spies, the new OWASP Top 10 and the rise of small-time ransomware](https://www.youtube.com/watch?v=LNVDrrKbfzg)
+- [Anthropic’s TPU move and NVIDIA’s Starcloud](https://www.youtube.com/watch?v=KF3jIUBecFo&pp=0gcJCd8KAYcqIYzv)
+- [IBM partners with Anthropic, plus OpenAI drops AgentKit](https://www.youtube.com/watch?v=lMrOvPloJ0o)
+- [Anthropic Economic Index, Virtual Agent Economies, AlterEgo and How People Use ChatGPT](https://www.youtube.com/watch?v=1PlyV-pf9_M&pp=0gcJCd8KAYcqIYzv)
+- [Google Antitrust, Anthropic's $183B leap and are we in the AI winter?](https://www.youtube.com/watch?v=Qw8GOzs3Z0g)
+- [Anthropic’s Project Vend, computer science education and AI prompts in papers](https://www.youtube.com/watch?v=myIre7iONII)
+- [OpenAI social network, Anthropic’s reasoning study and humanoid half-marathon](https://www.youtube.com/watch?v=LnVkwuwL7LU)
+- [Paris AI Summit, Altman's "Three Observations," and Anthropic's Economic Index](https://www.youtube.com/watch?v=KNNi-enb2B4)
+- [OpenAI deep research, o3-mini, AI Action Summit, and Anthropic’s Constitutional Classifiers](https://www.youtube.com/watch?v=qT8GgwQ2rT4)

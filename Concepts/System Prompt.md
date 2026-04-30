@@ -39,3 +39,7 @@ The **background instructions** given to an [[LLM]] before the conversation begi
 ## Learn More
 - [YouTube: System Prompts](https://www.youtube.com/results?search_query=System+prompts+LLMs)
 - [Anthropic System Prompts](https://docs.anthropic.com/en/docs/system-prompts)
+
+
+## Video Resources
+- [Claude 4 system prompt, Jony Ive at OpenAI and Microsoft’s “agent factory”](https://www.youtube.com/watch?v=e_B91C2vILc)

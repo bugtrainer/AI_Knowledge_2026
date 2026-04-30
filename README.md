@@ -14,6 +14,12 @@ This is an **Obsidian Vault**. You can read the Markdown files natively on GitHu
 4. Select the downloaded folder.
 5. Hit `Ctrl/Cmd + G` to open the Graph View and explore the connections! 
 
+## ☁️ Vercel Deployment Behavior
+- **Automatic deploys:** If this repo is connected to a Vercel project with Git integration enabled, pushing commits to the configured production branch (commonly `main`) will automatically trigger a new deployment.
+- **What you still need to do:** Commit + push your changes. Vercel does **not** deploy local/unpushed commits.
+- **When manual action is needed:** If Git integration is not enabled (or if a deployment fails), trigger a redeploy from the Vercel dashboard.
+- **Build source:** Vercel runs the repository build command (`npm run build` -> `bash build.sh`), so updates to vault content and build script are included in the next successful deploy.
+
 ## 🗺️ Navigation
 Start your journey at the `_Index.md` file, which serves as the master dashboard, or explore one of the hub Maps of Content (MOCs):
 - `MOC - Core Concepts.md`
